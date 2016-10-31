@@ -1,9 +1,23 @@
-import pickle
 from nltk.tokenize import word_tokenize
 from nltk.tag.perceptron import PerceptronTagger
 
 valid_pos = {"NN", "NNP", "NNS"}
 tagger = PerceptronTagger()
+
+
+def parse_question_file():
+    num_to_question = {}
+    curr_num = 89
+    next_line_is_descr = False
+    with open("question.txt", "r") as f:
+        for line in f:
+            if "<desc>" in line:
+                next_line_is_descr = True
+            elif next_line_is_descr:
+                next_line_is_descr = False
+                num_to_question[curr_num] = line
+                curr_num += 1
+    return num_to_question
 
 
 # create map from questions to nouns in the question
@@ -29,15 +43,9 @@ def get_answers(num_to_nouns):
         for doc_num in range(1, 101):
             if num_answers >= 5:
                 break
-            with open("doc_dev/"+str(question_num)+"/"+str(doc_num)) as f:
+            with open("doc_dev/"+str(question_num)+"/"+str(doc_num) + ".txt") as f:
                 print("reading doc " + str(doc_num) + "of question" + str(question_num))
-                file_string = f.read()
-                try:
-                    start_text = file_string.index("<TEXT>")
-                    end_text = file_string.index("</TEXT>")
-                    text = file_string[start_text:end_text]
-                except ValueError:
-                    continue
+                text = f.read()
                 # baseline that outputs a length 10 window if one of the nouns in the question is in the window
                 tokens = word_tokenize(text)
                 tagged = tagger.tag(tokens)
@@ -61,7 +69,7 @@ def get_answers(num_to_nouns):
             if num_answers == 0:
                 answers[question_num] = [(doc_num, "nil")] * 5
             else:
-                answers[question_num].append((doc_num, "nil")) * (5-num_answers)
+                answers[question_num].append((doc_num, "nil")*(5-num_answers))
     return answers
 
 
@@ -74,7 +82,7 @@ def output_answers(answers):
 
 
 def main():
-    questions = pickle.load(open("num_to_question_dict.pkl", "rb"))
+    questions = parse_question_file()
     num_to_nouns = get_nouns_from_questions(questions)
     answers = get_answers(num_to_nouns)
     output_answers(answers)
