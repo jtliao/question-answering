@@ -30,12 +30,12 @@ def get_answers(num_to_nouns):
             if num_answers >= 5:
                 break
             with open("doc_dev/"+str(question_num)+"/"+str(doc_num)) as f:
-                print("reading doc " + str(doc_num) + "of question" + str(question_num))
+                print("reading doc " + str(doc_num) + " of question" + str(question_num))
                 file_string = f.read()
                 try:
                     start_text = file_string.index("<TEXT>")
                     end_text = file_string.index("</TEXT>")
-                    text = file_string[start_text:end_text]
+                    text = file_string[start_text + len("<TEXT>"): end_text]
                 except ValueError:
                     continue
                 # baseline that outputs a length 10 window if one of the nouns in the question is in the window
