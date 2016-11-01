@@ -5,7 +5,8 @@ from nltk.tree import Tree
 question_types = {
     "Who": 1,
     "When": 2,
-    "Where": 3
+    "Where": 3,
+    "Who is": 4
 }
 
 
@@ -14,8 +15,18 @@ def get_type_of_question(num_to_question_dict):
     for num, question in num_to_question_dict.items():
         tokens = nltk.word_tokenize(question)
         question_word = tokens[0]
-        question_type = question_types[question_word]
-        num_to_type_dict[num] = question_type
+        if question_word == "Who":
+            if tokens[1] == "is" or tokens[1] == "was":
+                pos_tagged = nltk.pos_tag(tokens)
+                ner_tagged = nltk.ne_chunk(pos_tagged, binary=False)
+                if len(ner_tagged) == 4 and ner_tagged[2].label() == "PERSON":
+                    num_to_type_dict[num] = question_types["Who is"]
+                    # print(question)
+                    continue
+            num_to_type_dict[num] = question_types["Who"]
+        else:
+            question_type = question_types[question_word]
+            num_to_type_dict[num] = question_type
     return num_to_type_dict
 
 
@@ -114,12 +125,12 @@ def main():
 
     string = "New York City is where Derek Jeter and the New York Yankees play."
 
-    tokens = nltk.word_tokenize(string)
-    tagged = nltk.pos_tag(tokens)
-    named_ent = nltk.ne_chunk(tagged, binary=False)
-    # print(named_ent)
-    print(get_continuous_chunks(named_ent))
-    named_ent.draw()
+    # tokens = nltk.word_tokenize(string)
+    # tagged = nltk.pos_tag(tokens)
+    # named_ent = nltk.ne_chunk(tagged, binary=False)
+    # # print(named_ent)
+    # print(get_continuous_chunks(named_ent))
+    # named_ent.draw()
 
 
 if __name__ == "__main__":
