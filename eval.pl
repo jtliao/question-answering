@@ -17,7 +17,7 @@ while ($line = <PATTERNS>) {
     chomp $line;
     ($qid, $pattern) = split " ", $line, 2;
 	#printf "the length of the pattern %s,%d\n", substr($pattern,0,(length($pattern)-1)), length($pattern);
-	$pattern=substr($pattern,0,(length($pattern)-1));
+	$pattern=substr($pattern,0,(length($pattern)));
     push @{$patterns[$qid]}, $pattern;
 }
 close PATTERNS || die "can't close pattern file: $!\n";
