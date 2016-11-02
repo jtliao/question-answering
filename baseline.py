@@ -46,6 +46,7 @@ def get_answers(num_to_nouns):
         for doc_num in range(1, 101):
             if num_answers >= 5:
                 break
+
             with open("doc_dev/"+str(question_num)+"/"+str(doc_num) + ".txt") as f:
                 print("reading doc " + str(doc_num) + "of question" + str(question_num))
                 text = f.read()
