@@ -1,10 +1,13 @@
 from nltk.tokenize import word_tokenize
 from nltk.tag.perceptron import PerceptronTagger
 
+# parts of speech that we are looking for
 valid_pos = {"NN", "NNP", "NNS"}
+# part of speech tagger that we will use
 tagger = PerceptronTagger()
 
 
+# create map from question number to the question
 def parse_question_file():
     num_to_question = {}
     curr_num = 89

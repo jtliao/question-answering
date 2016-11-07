@@ -1,3 +1,4 @@
+# get rid of the extraneous tags to get the text
 def pre():
     for question_num in range(89, 321):
         for doc_num in range(1, 101):
