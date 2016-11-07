@@ -1,6 +1,8 @@
 import nltk
 import pickle
 from nltk.tree import Tree
+from dateutil import parser
+import re
 
 question_types = {
     "Who": 1,
@@ -8,6 +10,9 @@ question_types = {
     "Where": 3,
     "Who is": 4
 }
+
+months_set = {"January", "February", "March", "April", "May", "June",
+              "July", "August", "September", "October", "November", "December"}
 
 
 def get_type_of_question(num_to_question_dict):
@@ -67,7 +72,7 @@ def get_continuous_chunks(chunked):
 
 
 def get_answers_with_correct_type(num_to_nouns, num_to_type_dict):
-    answers = {}
+    answers = []
     for question_num, nouns in num_to_nouns.items():
         num_answers = 0
         for doc_num in range(1, 101):
@@ -80,26 +85,26 @@ def get_answers_with_correct_type(num_to_nouns, num_to_type_dict):
 
                 question_type = num_to_type_dict[question_num]
 
-                # NER which can label PERSON, ORAGANIZATION, and GPE (geo political entity)
-                # is only useful for filtering out WHO and WHERE questions
-                if question_type == 1 or question_type == 3:
+                sentences = nltk.sent_tokenize(text)
 
-                    sentences = nltk.sent_tokenize(text)
+                # Only care about sentences where some noun in question appears
+                for sentence in sentences:
+                    for noun in nouns:
+                        if noun in sentence:
+                            tokens_in_sentence = nltk.word_tokenize(sentence)
+                            pos_tagged_tokens_in_sentence = nltk.pos_tag(tokens_in_sentence)
 
-                    # Only care about sentences where some noun in question appears
-                    for sentence in sentences:
-                        for noun in nouns:
-                            if noun in sentence:
-                                tokens_in_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
-                                pos_tagged_tokens_in_sentences = [nltk.pos_tag(sent) for sent in tokens_in_sentences]
+                            # NER which can label PERSON, ORAGANIZATION, and GPE (geo political entity)
+                            # is only useful for filtering out WHO and WHERE questions
+                            if question_type == 1 or question_type == 3:
 
-                                ner_tagged = nltk.ne_chunk(pos_tagged_tokens_in_sentences, binary=False)
+                                ner_tagged = nltk.ne_chunk(pos_tagged_tokens_in_sentence, binary=False)
                                 ner_chunks = get_continuous_chunks(ner_tagged)
 
-                                #Who questions should get PERSON, or a regular noun... (109: Who is Barbara Jordan)
+                                #Who questions should get PERSON or ORGANIZATION
                                 if question_type == 1:
                                     for ner_pair in ner_chunks:
-                                        if ner_pair[1] == "PERSON":
+                                        if ner_pair[1] == "PERSON" or ner_pair[1] == "ORGANIZATION":
                                             answers.append(ner_pair[0])
                                             num_answers += 1
 
@@ -109,6 +114,69 @@ def get_answers_with_correct_type(num_to_nouns, num_to_type_dict):
                                         if ner_pair[1] == "GPE":
                                             answers.append(ner_pair[0])
                                             num_answers += 1
+
+                            # When questions should get year/date/period of time
+                            elif question_type == 2:
+
+                                try:
+                                    untrustworthy_date = parser.parse(sentence)
+
+                                    for month in months_set:
+                                        # Detect a month in sentence
+                                        if month in tokens_in_sentence:
+                                            month_ind = tokens_in_sentence.index(month)
+
+                                            # Check for dates in format 2 January
+                                            if month_ind > 0 and tokens_in_sentence[month_ind - 1].isdigit():
+                                                day_of_month = tokens_in_sentence[month_ind - 1]
+                                                # Check for dates in format 2 January 2013
+                                                if (month_ind < len(tokens_in_sentence) - 1
+                                                    and tokens_in_sentence[month_ind + 1].isdigit()
+                                                    and re.match(r"\d{4}$", tokens_in_sentence[month_ind + 1]) is not None):
+
+                                                    # Appends in month-day-year order
+                                                    answers.append(tokens_in_sentence[month_ind])
+                                                    answers.append(tokens_in_sentence[month_ind - 1])
+                                                    answers.append(tokens_in_sentence[month_ind + 1])
+
+                                                else :
+                                                    # Appends in month-day order
+                                                    answers.append(tokens_in_sentence[month_ind])
+                                                    answers.append(tokens_in_sentence[month_ind - 1])
+
+                                            # Check for dates in format January 2
+                                            # TODO: allow for letters attached to date number (e.g. January 2nd)
+                                            if month_ind < len(tokens_in_sentence) - 1 and tokens_in_sentence[month_ind + 1].isdigit():
+                                                # Check for dates in format January 2 2013
+                                                if (month_ind < len(tokens_in_sentence) - 2 and tokens_in_sentence[month_ind + 1].isdigit()
+                                                    and tokens_in_sentence[month_ind+2].isdigit()
+                                                    and re.match(r"\d{4}$", tokens_in_sentence[month_ind + 1]) is not None):
+
+                                                    answers.append(tokens_in_sentence[month_ind])
+                                                    answers.append(tokens_in_sentence[month_ind+1])
+                                                    answers.append(tokens_in_sentence[month_ind+2])
+
+                                                else:
+                                                    answers.append(tokens_in_sentence[month_ind])
+                                                    answers.append(tokens_in_sentence[month_ind + 1])
+
+                                    # NOT SURE IF WE ACTUALLY WANT TO USE THIS
+                                    # e.g. Parser parses "34, 12" to be datetime.datetime(2034, 12, 6, 0, 0)
+                                    answers.append(str(untrustworthy_date.month))
+                                    answers.append(str(untrustworthy_date.day))
+                                    answers.append(str(untrustworthy_date.year))
+
+                                # This means that datetime's parser doesn't detect a sentence in here
+                                except ValueError:
+                                        pass
+
+                                for token in tokens_in_sentence:
+                                    # token is 4 digit (see if it is year)
+                                    if re.match(r"\d{4}$", token) is not None:
+                                        # Range for valid year based on answer text
+                                        # Subject to change
+                                        if int(token) > 1500 and int(token) < 2020:
+                                            answers.append(token)
 
 
         if num_answers < 5:

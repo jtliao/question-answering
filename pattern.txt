@@ -406,7 +406,7 @@
 194 Basque.*France
 194 Basque.*Europe
 194 Spain.*Basque
-194 Spain.*Madrid
+194 Spain.*Madridf
 194 France.*Basque
 194 ^\s*Europe\s*$
 194 ^\s*Spain\s*$
