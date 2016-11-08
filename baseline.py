@@ -8,11 +8,11 @@ tagger = PerceptronTagger()
 
 
 # create map from question number to the question
-def parse_question_file():
+def parse_question_file(question_file):
     num_to_question = {}
     curr_num = 89
     next_line_is_descr = False
-    with open("question.txt", "r") as f:
+    with open(question_file, "r") as f:
         for line in f:
             if "<desc>" in line:
                 next_line_is_descr = True
@@ -78,18 +78,18 @@ def get_answers(num_to_nouns):
 
 
 # write the answers to the text file
-def output_answers(answers):
-    with open("answer.txt", "w") as f:
+def output_answers(answers, answers_file):
+    with open(answers_file, "w") as f:
         for question, answer in answers.items():
             for ans in answer:
                 f.write(str(question) + " " + str(ans[0]) + " " + ans[1] + "\n")
 
 
 def main():
-    questions = parse_question_file()
+    questions = parse_question_file("question.txt")
     num_to_nouns = get_nouns_from_questions(questions)
     answers = get_answers(num_to_nouns)
-    output_answers(answers)
+    output_answers(answers, "answer.txt")
 
 
 if __name__ == "__main__":
