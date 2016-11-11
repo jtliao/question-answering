@@ -1,13 +1,22 @@
 import nltk
-import pickle
 from nltk.tree import Tree
 from dateutil import parser
 import re
-
 import baseline
+from nltk.tokenize import word_tokenize
+from nltk.tag.perceptron import PerceptronTagger
+from nltk.stem.lancaster import LancasterStemmer
+
+# parts of speech that we are looking for
+valid_pos = {"NN", "NNP", "NNS"}
+# part of speech tagger that we will use
+tagger = PerceptronTagger()
+# find the verb stems
+st = LancasterStemmer()
 
 question_types = {
     "Who": 1,
+    "Whom": 1,
     "When": 2,
     "Where": 3,
     "Who is": 4
@@ -15,6 +24,8 @@ question_types = {
 
 months_set = {"January", "February", "March", "April", "May", "June",
               "July", "August", "September", "October", "November", "December"}
+
+bad_verbs = {"is", "was", "did"}
 
 
 def get_type_of_question(num_to_question_dict):
@@ -60,7 +71,6 @@ def get_continuous_chunks(chunked):
                         continuous_chunk.append((named_entity, current_chunk_type))
                         current_chunk = [(" ".join([token for token, pos in i.leaves()]))]
                         current_chunk_type = i.label()
-
         elif current_chunk:
             named_entity = " ".join(current_chunk)
             if named_entity not in continuous_chunk:
@@ -69,17 +79,17 @@ def get_continuous_chunks(chunked):
                 current_chunk_type = None
         else:
             continue
-
     return continuous_chunk
 
 
-def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, nouns):
+def get_answers_with_correct_type_for_question(directory, num_to_type_dict, question_num, nouns):
     answers = []
+    answers_set = set()
     num_answers = 0
     for doc_num in range(1, 101):
         num_spots_in_answer = 10
         curr_answer = []
-        with open("doc_dev/" + str(question_num) + "/" + str(doc_num) + ".txt") as f:
+        with open(directory + "/" + str(question_num) + "/" + str(doc_num) + ".txt") as f:
             print("reading doc " + str(doc_num) + " of question" + str(question_num))
             text = f.read()
 
@@ -94,10 +104,9 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                         tokens_in_sentence = nltk.word_tokenize(sentence)
                         pos_tagged_tokens_in_sentence = nltk.pos_tag(tokens_in_sentence)
 
-                        # NER which can label PERSON, ORAGANIZATION, and GPE (geo political entity)
+                        # NER which can label PERSON, ORGANIZATION, and GPE (geo political entity)
                         # is only useful for filtering out WHO and WHERE questions
                         if question_type == 1 or question_type == 3:
-
                             ner_tagged = nltk.ne_chunk(pos_tagged_tokens_in_sentence, binary=False)
                             ner_chunks = get_continuous_chunks(ner_tagged)
 
@@ -106,8 +115,13 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                                 for ner_pair in ner_chunks:
                                     # Make sure that the person/organization is the same as what we searched for
                                     if (ner_pair[1] == "PERSON" or ner_pair[1] == "ORGANIZATION") and ner_pair[0] != noun:
+                                        tokens = len(word_tokenize(ner_pair[0]))
+                                        if ner_pair[0].lower() in answers_set:
+                                            continue
+                                        answers_set.add(ner_pair[0].lower())
                                         curr_answer.append(ner_pair[0])
-                                        num_spots_in_answer -= 1
+
+                                        num_spots_in_answer -= tokens
                                         if num_spots_in_answer == 0:
                                             answers.append((doc_num, " ".join(curr_answer)))
                                             num_answers += 1
@@ -115,14 +129,17 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                                             num_spots_in_answer = 10
                                             if num_answers >= 5:
                                                 return answers
-
                             # Where questions should get GPE
                             elif question_type == 3:
                                 for ner_pair in ner_chunks:
                                     # Make sure that the location is the same as what we searched for
                                     if ner_pair[1] == "GPE" and ner_pair[0] != noun:
+                                        tokens = len(word_tokenize(ner_pair[0]))
+                                        if ner_pair[0].lower() in answers_set:
+                                            continue
+                                        answers_set.add(ner_pair[0].lower())
                                         curr_answer.append(ner_pair[0])
-                                        num_spots_in_answer -= 1
+                                        num_spots_in_answer -= tokens
                                         if num_spots_in_answer == 0:
                                             answers.append((doc_num, " ".join(curr_answer)))
                                             num_answers += 1
@@ -130,12 +147,10 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                                             num_spots_in_answer = 10
                                             if num_answers >= 5:
                                                 return answers
-
                         # When questions should get year/date/period of time
                         elif question_type == 2:
                             try:
                                 untrustworthy_date = parser.parse(sentence)
-
                                 for month in months_set:
                                     # Detect a month in sentence
                                     if month in tokens_in_sentence:
@@ -176,8 +191,6 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                                                     curr_answer.append(tokens_in_sentence[month_ind - 1])
                                                     curr_answer.append(tokens_in_sentence[month_ind + 1])
                                                     num_spots_in_answer -= 3
-
-
                                             else:
                                                 if num_spots_in_answer >= 2:
                                                     # Appends in month-day order
@@ -200,8 +213,8 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                                                     curr_answer = []
                                                     num_spots_in_answer = 10
                                                     # Appends in month-day order
-                                                    answers.append(tokens_in_sentence[month_ind])
-                                                    answers.append(tokens_in_sentence[month_ind - 1])
+                                                    curr_answer.append(tokens_in_sentence[month_ind])
+                                                    curr_answer.append(tokens_in_sentence[month_ind - 1])
                                                     num_spots_in_answer -= 2
 
                                         # Check for dates in format January 2
@@ -319,8 +332,12 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
                             for (token, pos) in pos_tagged_tokens_in_sentence:
                                 if pos in baseline.valid_pos:
                                     answer_noun = token
+                                    tokens = len(word_tokenize(answer_noun))
+                                    if answer_noun[0].lower() in answers_set:
+                                        continue
+                                    answers_set.add(answer_noun.lower())
                                     curr_answer.append(answer_noun)
-                                    num_spots_in_answer -= 1
+                                    num_spots_in_answer -= tokens
                                     if num_spots_in_answer == 0:
                                         # print(curr_answer)
                                         answers.append((doc_num, " ".join(curr_answer)))
@@ -341,17 +358,85 @@ def get_answers_with_correct_type_for_question(num_to_type_dict, question_num, n
         if num_answers == 0:
             answers = [(doc_num, "nil")] * 5
         else:
-            answers.append((doc_num, "nil") * (5 - num_answers))
+            for ind in range(5-num_answers):
+                answers.append((doc_num, "nil"))
     return answers
 
 
-def get_answers_with_correct_type(num_to_nouns, num_to_type_dict):
+def get_answers_with_correct_type(directory, num_to_nouns, num_to_type_dict):
     answers = {}
     for question_num, nouns in num_to_nouns.items():
-        answers_for_question = get_answers_with_correct_type_for_question(num_to_type_dict, question_num, nouns)
-        answers[question_num] = answers_for_question
+        answers_for_question = get_answers_with_correct_type_for_question(directory, num_to_type_dict, question_num, nouns)
+        output = []
+        for answer in answers_for_question:
+            ans = list(answer)
+            tokens = word_tokenize(ans[1])
+            if len(tokens) > 10:
+                tokens = tokens[:10]
+                answer_string = ''.join(word + " " for word in tokens)
+                ans[1] = answer_string
+                answer = tuple(ans)
+            output.append(answer)
+        # output.sort(key=lambda t: len(t[1]), reverse=True)
+        answers[question_num] = output
     return answers
 
+
+# create map from question number to the question
+def parse_question_file(directory):
+    num_to_question = {}
+    if directory == "doc_dev":
+        curr_num = 89
+        question_file = "question.txt"
+    else:
+        curr_num = 1
+        question_file = "question_test.txt"
+    next_line_is_descr = False
+    with open(question_file, "r") as f:
+        for line in f:
+            if "<desc>" in line:
+                next_line_is_descr = True
+            elif next_line_is_descr:
+                next_line_is_descr = False
+                num_to_question[curr_num] = line
+                curr_num += 1
+    return num_to_question
+
+
+# create map from questions to nouns in the question
+def get_dicts_from_questions(questions):
+    num_to_nouns_dict = {}
+    num_to_verbs_dict = {}
+    num_to_supers_dict = {}
+    for num, question in questions.items():
+        nouns = []
+        verbs = []
+        supers = []
+        tokens = word_tokenize(question)
+        tagged = tagger.tag(tokens)
+        for word in tagged:
+            if word[1] == "JJS" or word[0].lower() == "first":
+                if word[0] != "forest":
+                    supers.append(word[0])
+            elif word[1][0] == "V":
+                if word[0] not in bad_verbs:
+                    verbs.append(st.stem(word[0]))
+            elif word[1] in valid_pos:
+                nouns.append(word[0])
+        num_to_verbs_dict[num] = verbs
+        num_to_supers_dict[num] = supers
+        num_to_nouns_dict[num] = nouns
+    print(num_to_supers_dict)
+    print(num_to_verbs_dict)
+    return num_to_nouns_dict, num_to_verbs_dict, num_to_supers_dict
+
+
+# write the answers to the text file
+def output_answers(answers, answers_file):
+    with open(answers_file, "w") as f:
+        for question, answer in answers.items():
+            for ans in answer:
+                f.write(str(question) + " " + str(ans[0]) + " " + ans[1] + "\n")
 
 
 def main():
@@ -366,15 +451,13 @@ def main():
     # # print(named_ent)
     # print(get_continuous_chunks(named_ent))
     # named_ent.draw()
-
-    num_to_question = baseline.parse_question_file("question.txt")
+    directory = "doc_test"
+    num_to_question = parse_question_file(directory)
     num_to_type_dict = get_type_of_question(num_to_question)
-    num_to_nouns_dict = baseline.get_nouns_from_questions(num_to_question)
+    num_to_nouns_dict, num_to_verbs_dict, num_to_supers_dict = get_dicts_from_questions(num_to_question)
 
-    answers = get_answers_with_correct_type(num_to_nouns_dict, num_to_type_dict)
-    baseline.output_answers(answers, "answers_type.txt")
-
-
+    answers = get_answers_with_correct_type(directory, num_to_nouns_dict, num_to_type_dict)
+    output_answers(answers, "answers_type_test.txt")
 
 
 if __name__ == "__main__":
