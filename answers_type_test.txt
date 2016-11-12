@@ -1,0 +1,440 @@
+1 1 Margaret Dean Acheson Great Britain Truman Bush Administration Mikhail Gorbachev
+1 1 Metternich Hugo Young Iron Lady Young Thatcher Ronald Reagan Tory
+1 1 Barry Goldwater Reagan Parliament Edward Heath National Freight Corp.
+1 1 Cromwell Free Economy Andrew Gamble
+1 2 Margaret Thatcher Conservative Party Times Anthony Sampson Gallup Sampson Denis
+2 1 Lundgren Damon P. Lundgren Deputy Dist Averys Dennis Rebecca Karen
+2 1 Cleveland Plain Dealer
+2 2 NBC Supreme Court WKYC WJW CBS WEWS ABC WUAB Dennis 
+2 3 National City Ohio Hewicker
+2 4 Jeffery Lundgren Alice Elizabeth Damon
+3 1 1981 1981 1987 1989
+3 2 1981 1981 1989 1980s 2005 1996
+3 4 1997 1997
+3 6 1980s 1980s
+3 9 1981 1981 1995 1981 1992 1993
+4 1 Sung James Soong Li Mainland China Li Teng-hui KMT Federation
+4 2 Lee Teng-hui Kuomintang DPP Huang
+4 3 Article Type BFN Kunachada Chaiphiphat THE NATION Philippines Subic Bay
+4 3 Board Investment Bt Growth Quadrangle
+4 4 Shanghai Liberation Daily Lee
+5 1 Janet Reno FBI William Sessions Reno Bob Ricks David Koresh
+5 1 Koresh Ricks
+5 2 Branch Davidian Jesus Christ
+5 3 Nancy Dunne Foreign Clinton
+5 4 Bill Clinton Waco AP
+6 1 Pounds
+6 7 Petranol
+6 64 Polythene Bonar Davis STORES French TEXTS Antofagasta
+6 100 nil
+6 100 nil
+7 1 Mercury Astronaut Hall Alan Shepard John Glenn Walter Schirra Grissom
+7 1 Gordon Cooper Malcolm Scott Carpenter Earth Slayton
+7 2 John Kennedy Lyndon Johnson Bush Richard Gephardt Congress Hill Space 
+7 3 Assn Aleksei Leonov Arab Mother Earth Salman
+7 4 ITAR-TASS Boris Yeltsin Sergey Krikalev Mir
+8 5 1983
+8 8 1989
+8 12 1980 1980
+8 17 1993 1993 1993
+8 19 1993
+9 1 1991 1992 1992
+9 4 1973 1978 1991
+9 8 1970 1992
+9 11 1960s
+9 13 1960s
+10 1 1972 1972
+10 2 1989 1968 1971
+10 3 1994 1913 1946 1952 1960 1972 1972 1976 1976
+10 4 1989 1993
+10 6 1972 1972
+11 1 Goldberg Century Fox Film Corp. Kim BALTHAZAR John Paul Getty 
+11 2 Danny Glover Charles Burnett Anger Romuald Juliette
+11 3 Sarandon Bette Davis Gypsies Uncompromising Positions Hollywood
+11 4 Mystic Pizza Golden Globe Oscar Steel Magnolias Hollywood Buzz Roberts
+11 4 Eric Roberts Hollywood Boulevard Times Michael Wilmington
+12 1 Jakarta Malaysia Indonesia Malaysian Surabaya
+12 2 Kuala Lumpur Sipadan Ligitan
+12 3 Kuala Indonesian
+12 4 Kalimantan Langkawi
+12 7 Land
+13 1 Negro Leagues Branch Rickey Brooklyn Dodgers Jackie Robinson Lonnie Chico 
+13 2 Lou Dials Bobby Robinson Lou Gehrig Mel Ott Jimmie Foxx
+13 2 Negro League Hall
+13 3 Kal Daniels Lenny Harris
+13 4 Vin Scully Walt Whitman Garagiola SportsChannel Fenway Park
+14 1 European Meeks Simpson
+14 2 U.S. Washington
+14 4 Discovery
+14 7 Columbia
+14 9 Earth
+15 1 Directors Guild Academy Awards Academy Award
+15 2 Barry Levinson
+15 3 Geena Davis Accidental Tourist Shrine Auditorium Hollywood Foreign Golden Globe 
+15 5 Roger Janice Johnson Volunteer Center Orange County William Lyon Willa 
+15 6 Ebert
+16 1 Hearst
+16 3 Seattle Los Angeles Chappaqua N.Y. Manhattan New York
+16 4 Italian
+16 5 Dinner Broadway
+16 6 Irish Women
+17 1 Indiana University Washington
+17 2 Virginia Westmoreland County Fredericksburg Milton Mass
+17 3 British Britain Orange County Greece Denmark Russia Prince Kent Iceland
+17 5 Eudora Pennsylvania Benton County Mariette Okla.
+17 6 Lowell U.S. Army
+18 1 Bush Colin Powell Army Joint Chiefs Administration William J. Crowe 
+18 2 John Galvin NATO Robert Herres
+18 3 Colin L. Powell Senate
+18 4 William J. Crowe Staff
+18 5 Senate Armed Services Committee Democrats
+19 1 Tenzin Gyatso Dalai Lama Nobel Peace Prize Committee
+19 2 Nobel Peace Prize Egil Aarvik Nobel Peace Christian People Party
+19 2 Aarvik Parliament Peace Prize African Bishop Lech Walesa
+19 3 Nelson Mandela African National Congress Nobel Committee South Africa Albert 
+19 4 Rigoberta Menchu Jorge Serrano Elias Guatemalan Writer Miguel Angel Asturias
+20 1 Victor Human Genome Organization HUGO NIH Watson Nancy Wexler Columbia 
+20 2 Centre Ceph Huntington Daniel Cohen Human Genome Project Genethon Francis 
+20 3 James Watson DNA
+20 4 EC Bernadine Healy Genome Sir Walter Bodmer Human Genome Organisation
+20 5 Craig Venter Wallace Steinberg Healthcare Investment Corporation TIGR Steinberg Human 
+21 4 1981 1985 1981 1985
+21 12 1994 1985 1985 1991 1994 1994 1549 1993
+21 14 1990
+21 17 1970s
+21 18 1985 1985 1985 1985
+22 1 Gibraltar Costa Sol Marina Puente Romano Sotogrande Puente Romano Marbella
+22 1 Jesus Gil UK BD Wood
+22 3 Barry Hamptons KFR
+22 4 Pounds International
+22 5 Mijas Costa Fuengirola
+23 1 Yongbyon Pyongyang
+23 2 Korean
+23 3 North Korea Russian Chinese
+23 5 North
+23 6 Kotlov
+24 1 San Diego Sweetwater Sweetwater Coach David Ybarra Clark James Ybarra
+24 1 Rancho Buena Vista III Torrey Pines San Dieguito High Schools
+24 2 San Diego Cavers Dennis Kane Dave Ybarra Red John Gilbert
+24 2 McDowell Campbell James
+24 3 National
+25 1 1948 1833 1956 1990 1956 1990 1956 1990
+25 2 1960s 1800s 1920s 1951 1963 1960s 1979 1940s 1940s
+25 3 1960s 1920s 1967 1973 1967 1973 1960s 1970s 1972 1979
+25 3 1985 1985
+25 5 1971
+26 1 Stanford University Naval Research Jacuzzi John D. Dingell Larry Horton
+26 1 Dingell General Accounting Congress Frank Riddle
+26 2 John Raisian Stanford University UCLA Donald Kennedy Robert H. Malott
+26 2 Hoover Board Kennedy Raisian Hoover Campbell Michael Boskin Bush Council
+26 2 Economic Advisers John F. Manley
+27 1 George Hays Orange County Caltrans Laguna Canyon Road
+27 2 Broughton Poggs Peter Cook Safety Products David Morgan PVC ICI
+27 2 Telecom Scilly Isles UK Highwayman Broughton Poggs Traffic Sign Regulation
+27 2 General Directions
+27 3 Ventura Boulevard Sepulveda Ventura Raymond H. Wellbaum Wellbaum Haskell Paula 
+28 1 University Peter F. Whitington Teresa A. Smith Ronald W. Busuttil
+28 1 UCLA Medical Center John Lake UC San Francisco Broelsch Alyssa 
+28 2 Hospital
+28 3 Stormie Jones
+28 4 Stanford University Medical Center
+29 2 1973 1973
+29 3 1968 1969
+29 6 1958 1972 1980
+29 8 1969 1974 1969 1974
+29 11 1946 1974 1978
+30 1 Aerojet El Civic Wickes Sacramento San San Diego Gencorp
+30 2 Aliso Viejo
+30 3 Business London British Oxford Kensington Chelsea Wimbledon Birmingham Edinburgh Scotland
+30 3 England Northern Ireland
+30 4 Brand Glendale
+31 1 BFN Republic Li Teng-hui Li Central America ROC Alfredo Cristiani
+31 1 Armando Calderon Sol Honduran Rafael Leonardo Callejas Guatelaman De Leon 
+31 2 Jose Maria Figueres UN Begin
+31 3 CNA Rafael Angel Calderon United Nations Chien Fu Maria Figueres
+31 3 Paraguay Angel Roberto Seifart Nelson Mandela
+32 1 Sesame Street Jim Henson Frog Fozzie Bear Miss Piggy Cookie 
+32 3 Mickey Mouse Henson Associates Walt Disney Disney Muppets Hollywood Dollars
+32 4 Peter Pumpkin Eater Queen Miss Muffet Humpty Dumpty Bo Peep
+32 4 Muffet
+32 5 Big Bird Oscar
+33 1 Pacific Ocean Pacific Rim Landsman Lloyd Ellis Grader Nick Graham
+33 1 Scripps McGowan ENSO El Nino Equator
+33 2 Chicago Board Trade US National Weather Christ Vernon Kousky Kousky
+33 2 Crop US Mount Pinatubo Phillippines Kevin Marcus Crop Cast
+33 4 Jim Angell National Oceanic Atmospheric Administration
+34 3 1952 1952
+34 12 1821
+34 15 1978
+34 17 1955
+34 18 1966
+35 1 State
+35 2 US New York
+35 3 Atlantic City New Jersey Taj-land Trump
+35 4 Casino Industry
+35 5 Approval
+36 1 Paramount Pictures Corp. Star Trek Ghost Ship Star Trek III 
+36 2 Bob Hoskins Jeff Goldblum Natasha Richardson Star Trek VI Enterprise
+36 2 Christopher Plummer Kirk Bones Klingon Siberia
+36 3 Stan Stice Trek Dawn Wells Mary Ann Gilligan Mark Lenard
+36 3 Sarek Star Trek V Final Frontier Lenard Linda Tanenbaum Brentwood
+37 1 Francis Ford Coppola Part III Paramount Pictures Sidney Ganis Corleone
+37 1 Coppola Academy Award Zoetrope Productions
+37 2 Christmas Paramount Academy Awards Frank Mancuso Part II Mario Puzo
+37 2 Al Pacino Michael Corleone Diane Keaton Talia Shire Andy Garcia
+37 3 Corleone Family Saga Pacino Michael Marlon Brando Robert De Niro
+38 1 Bjelasnica Bill Johnson US Juan Antonio Samaranch International Committee Albertville
+38 1 ABC Lillehammer FFr280m Chamrousse Killy John Samuel
+38 2 Winter Olympics Franz Klammer Alberto Tomba Kitzbueheler Sailer Sixten Jernberg
+38 2 Stein Eriksen International Ski Federation Muerren Grenoble Avery Brundage Nancy
+38 2 Greene Marielle Goitschel Annemarie Moser-Proell Rosi Mittermaier Innsbruck Bernhard Russi
+39 1 Chancellor Willy Brandt Herr Brandt Foreign Ministry Juergen Chrobog Emilio 
+39 2 Christian Social Union Bundestag GDR Social Democratic Party Herbert Wehner
+39 2 Karl Wienand SPD Federal Willy Brandt Mr. Wehner East Berlin
+39 2 Glos SPD Bundestag Vogel Cologne EXPRESS Wehner Klaus Lennartz Brigitte
+39 2 Socialist Unity Party
+40 6 James Watson
+40 37 Gregor Mendel
+40 57 Sharp Massachusetts Institute
+40 100 nil
+40 100 nil
+41 1 Morris
+41 2 Cornell University Syracuse NASA
+41 3 GAO Congress Jack Brock Jr. Brock
+41 5 National Research Network
+41 6 New Dominican Republic FAO Dollars
+42 1 Jeana Yeager Dick Rutan Tony
+42 2 San Juan Capistrano Gary Aliengena
+42 3 Tony Aliengena John Wayne Airport
+42 4 Guinness Book
+42 10 Kunst PTA
+43 1 David Bowie Sound Bowie Major Tom Ziggy Stardust Stones Steel 
+43 2 Rykodisc Bowie RCA Records RCA Ashes EMI Records Columbia Frizzell
+43 2 Don Gibson Bear Family Records
+43 4 Stevie Wonder Songwriters Lloyd Chiate Wonder Grammy Award Academy Award
+43 4 Billy Davis Jr. Marilyn McCoo Eddie Money San Fernando Valley 
+44 1 Fund Japan Japanese European Europe Sterling
+44 2 UK US Germany New York
+44 3 Gartmore Hong Kong Singapore Malaysia Cash Mexican Newton Per Swiss
+44 3 Swedish Netherlands Pounds Australia/Mexico Gilts
+44 4 German
+45 1 Neptune Triton Cable News Network CNN Jupiter Saturn Tonight JPL
+45 1 Edward Stone Voyager Learning TBS Carl Sagan Sidney Poitier
+45 2 Earth Bruce Brymer NASA Jet Propulsion Laboratory Uranus Voyager Interstellar 
+45 4 Edward C. Stone Kohlhase Antenna Network Throughout With Miranda Stone
+45 4 Goldreich Rock No
+46 3 1996 1996
+46 4 1996
+46 5 1996 1996 1996
+46 6 1996 1996
+46 7 1992 1995 1996
+47 1 Neil Armstrong Tranquility Columbia Collins
+47 2 Washington Smithsonian America Earth American V United States Florida Christ
+47 2 Los Angeles Montclair N.J. Laguna Beach
+47 4 Inglewood Bethpage N.Y. Apollo Americans Eagle Aldrin
+47 5 Huntington Huntington Beach Downey
+48 1 Lee Harvey Oswald Cavanagh Ruby Kennedy Internal Revenue Service Simons
+48 2 Warren Commission House Representatives Louis Stokes Ohio Democrat CIA
+48 3 Jack Ruby John F. Kennedy
+48 4 Tragedy JFK
+48 5 Interfax Security Committee Eduard Shirkovskiy John Kennedy Bill Clinton KGB
+49 1 Benin Asamoah Rawlings Togo Mr. Sossou ECOWAS African States Soglo
+49 1 Ghana
+49 2 Army
+49 3 GBC
+49 4 GHANAIAN THE DEMOCRAT Ghanaians THE INDEPENDENT Eyadema
+50 1 Janet Placentia Dorado High School Fullerton Aquatics Sports Team Richard 
+50 2 Long Jay Wilkerson Jim McConica Martha Jahn Karen Burton Chad 
+50 3 San Diego Aerospace Museum Trout Ray Wagner Wagner Embry-Riddle Aeronautical 
+50 4 Wharton Eric Namesnik Darnyi National Collegiate Athletic Assn Mitchell Veatch
+50 4 Nichole Haislett Aquatics
+51 1 AFP Malawi Chakufwa Chihana Bakili Muluzi AFORD Muluzi Banda Congress 
+51 2 Democratic Front UDF Democracy Mr. Chakufwa Chihana Parliament Malawi Congress 
+51 3 Mr. Bakili Muluzi United Democratic Front
+51 4 Hastings Kamuzu Banda MCP
+51 5 Mr. Muluzi
+52 1 Caltech National Aeronautics Space Administration Stone
+52 2 Voyager Christopher P. Jones JPL Jones Charley Kohlhase
+52 3 Earth Jet Propulsion Laboratory Anthony Spear Magellan Spear
+52 4 William J. Galileo Clayne M. Yeates Jupiter
+52 5 Venus Radar Mapper Wall
+53 13 1967 1967
+53 15 1967
+53 17 1991 1991 1991 1991 1991
+53 24 1505 1505 1505
+53 31 1990
+54 1 Armstrong NASA Edwin E. Buzz Aldrin Michael Collins John F. 
+54 2 TIME Orange County
+54 3 Christopher Kraft Astronaut Neil Armstrong National Aeronautics Space Administration Gargantuan
+54 3 Earth Elverum Apollo Steven Bales
+54 4 CBS Perry Wolff Moon Above Neil Armstrong Buzz Aldrin
+55 100 nil
+55 100 nil
+55 100 nil
+55 100 nil
+55 100 nil
+56 1 Los Angeles Los Angeles Board Los Angeles Harbor San Pedro
+56 1 Wilmington San India Nagano
+56 2 San Francisco U.S. Long Beach Japanese Islands Baltimore Northern California 
+56 3 Japanese Long Vernick
+56 4 Los
+57 1 UK Exports Award Philippines
+57 3 Queens Moat Pounds Coppel Robert Abson Peter Bertholdt Meer
+57 4 Bernard Weatherill
+57 5 Road House Rowdy Herrington Into College Mr. Savage Steve Holland
+57 6 Kenya
+58 1 Carlos Lage Cuban Council Carlos Solchaga Spanish Socialist Workers Party
+58 1 Lage Jose Luis Rodriguez State Committee Council State
+58 2 Carlos
+58 3 Roberto Robana Havana Felipe Gonzalez Fidel Castro Castro Inter-American Development 
+58 6 Ministers
+59 1 Tijuana United States Ciudad Obregon Progreso California Seven States San
+59 1 Vallecillo Nuevo Laredo Tamaulipas Baja
+59 2 Benjamin
+59 3 Ciudad Juarez Juarez Oaxaca Coahuila Colombia Forty
+59 4 Spanish Santa Bogota Panama Mexico City
+60 1 XINHUA Foreign Ministry Tsutomu Hata Wu Jianmin Michihiko Tang Jiaxuan
+60 1 Shigeto Nagano Nagano Hata Wu
+60 2 AFP Massacre Shiheto Nagano Tsutomo Hata Nanjing Massacre Koichi Matsumoto
+60 2 Matsumoto
+60 3 Justice Shigeto Nagano Herein
+61 1 McHale Jordan Chicago New York Knicks Portland Trailblazers Scottie Toni 
+61 2 Northwestern
+61 3 Teagle Same
+61 4 French Yugoslavian
+61 6 Cartwright Trivia
+62 1 Garden Grove Swansea Dylan
+62 2 New York Fryer Caitlin America Italian
+62 3 Child Wales Gone Certain
+62 4 Welsh English Kierkegaard French Church Montgomeryshire Thomas Wordsworthian
+62 5 Puckish
+63 1 Hamilton Democratic Lyndon Johnson John Kennedy Minnesota Jimmy Carter
+63 2 Albert Gore Clinton Democrats middle-class Americans Richard Nixon GEORGE McGOVERN
+63 2 McGovern JIMMY Carter Senator Edward Kennedy
+63 3 George Bush Republican Bill Clinton Ross Perot
+63 4 Reuter Boston Globe US Senator Al Gore Dan Quayle
+64 1 1970s 1970s
+64 2 1988 1988 1981 1981 1981 1982 1983 1984 1983 1984
+64 2 1987 1984 1988 1988 1988 1989 1990 1990
+64 3 1988 1988 1988
+64 4 1989 1989
+65 1 Review American Indian English New Hampshire
+65 2 California Poughkeepsie N.Y. Jewish Washington Texas Austin
+65 3 Claremont Oakland St. Los Angeles Pomona
+65 4 Hanover Dartmouth
+65 6 Columbia Colorado Friessel
+66 1 1789
+66 3 1789
+66 4 1986 1987
+66 5 1990
+66 6 1990
+67 1 UAPT Equifax MMC OFT Trans Union
+67 2 Union
+67 4 Marmon Group UK Pounds
+67 5 Monopolies Mergers Commission
+67 6 Trans Union's UATP
+68 10 1970s
+68 11 1989
+68 12 1994
+68 15 1980
+68 45 1949 1947
+69 1 Exxon Valdez Coast Guard Coast Guard William Sound Steve Exxon 
+69 2 National Transportation Safety Board Joseph Hazelwood NTSB James L. Kolstad
+69 2 Alaskan Kolstad
+69 3 Doug Baily Baily Valdez John Devens Frank Iarossi Exxon Shipping
+69 3 Valdez Coast Guard Cmdr Alaska Gov Steve Cowper
+70 1 Detroit Pistons Chicago Bulls National Basketball Assn Detroit Lakers NBA
+70 1 Michael Python Pistons Edwards Laimbeer Horace Grant Rodman John Paxson
+70 1 Scottie Pippen Craig Hodges Vinnie Johnson Conference PDT
+70 2 Palace Auburn Hills Bill Laimbeer Isiah Thomas Daly Michael Jordan
+70 2 Bill Cartwright Thomas Coach Doug Collins Bulls Pippen Jordan Dumars
+71 1 BFN Rabbani Islamic Levon Ter-Petrosyan Republic Mr. Levon Excellency Azerbiajan
+71 1 Mr. Azerbaijan Afghan
+71 2 Bakhtar Information Agency Professor Borhanoddin Rabbani Sardar Faruq Ahmad Khan 
+71 3 Esteemed
+71 4 Mawlawi Ataurrahman Hojjat Erfani Golboddin Muslim Sunni
+72 1 Diego County Steve Harmon John Sweeten Harmon San Diego County
+72 1 George Deukmejian Department San Diego Sweeten
+72 2 George Deukmejian Cal State San Marcos Carlsbad San Onofre Jim 
+72 3 Parks Education Legislature Bohannon Pottery Village Old Town Park Assemblywoman 
+72 4 Mental Health Mental Illness No Fault Disability Bob Lerner Supervisor 
+73 1 Hawaii
+73 2 Distant Progress California Chile American Nothing European Soviet Union Arizona
+73 2 Italy Santiago
+73 3 Astronomy Stone
+73 4 Thomas Kobin Technology
+74 5 1974
+74 16 1960s
+74 17 1969 1940s 1950s
+74 19 1970s
+74 34 1974
+75 100 nil
+75 100 nil
+75 100 nil
+75 100 nil
+75 100 nil
+76 2 1942 1928 1989 1989 1964 1966
+76 3 1942 1928 1989 1964 1966
+76 10 1911
+76 11 1901 1901
+76 12 1960s
+77 1 1916 1917
+77 2 1916
+77 4 1916
+77 6 1990
+77 16 1918 1918
+78 1 Nora
+78 4 Sofiyanski
+78 6 Bulgarian
+78 7 Turkification
+78 31 Plovdiv Bulgaria
+79 1 Washington D.C. American Booth Victorian Ford
+79 4 Los Angeles Seletz Illinois Los Feliz
+79 6 April
+79 10 Southern Richmond
+79 13 Kermit Park Great Disneyland Kankakee East Grand Forks U.S.
+80 1 1971
+80 2 1848 1848 1973
+80 3 1889
+80 6 1974
+80 8 1971 1991
+81 1 Yemeni
+81 2 Yemen Sanaa Egypt Jordan Bahrain
+81 3 Arabic Israeli Palestinian Middle East Israel
+81 4 Ismailia Italy Qatari Europe
+81 5 Doha
+82 1 South Bend Palo Irish
+82 3 Chicago Los Angeles
+82 4 Satterfield Niles Washington South
+82 5 Ind
+82 6 Dame St. Netherlands European Lund
+83 1 Soviet Japan Korean Midwest Washington Soviet Union Europe American
+83 6 Independence
+83 8 United States Bricker Ohio
+83 11 Pendergast Eastern Europe
+83 12 New York City
+84 1 Carter Administration Internal Revenue Service Randolph Thrower Richard M. Nixon
+84 1 ABA House Barbara Black Columbia University Law School Warren Christopher
+84 1 Jimmy Carter Erwin Griswold Harvard Law School Nixon Administration Gerald 
+84 2 State Department State James A. Baker III National State Lawrence
+84 2 State Henry Kissinger Bush GOP Jesse Helms William P. Rogers
+85 1 Mr. Farooq Ahmad Khan Leghari
+85 2 Sardar Farooq Ahmad Khan Leghari Punjab Mian Manzur Watoo Maliha 
+85 4 Farooq Ahmad Khan Leghari APP IMF Congress Senate
+85 5 Associated
+85 6 PJG PJG ITAG Part Richard Milhous Nixon Federal Register SIGNJOB
+86 2 Tall
+86 4 Torrey Pines Reserve
+86 5 Tree Society Orange County Mondell Pines
+86 6 Watkins Ballad Mari Lwyd Dante Ronsard Baudelaire Rilke
+86 20 Littlerock Eleutherius St. John College
+87 2 Stephen Hero Artist Ulysses Finnegans Wake
+87 20 John Gielgud Pinter No Man Chekhov Wilde
+87 70 Conrad Secret Agent
+87 100 nil
+87 100 nil
+88 1 Laurence Olivier Rosemary Harris Olivier National Academy Award Henry V
+88 1 Macbeth Richard III
+88 2 PhD Borgeson
+88 3 Tony Tony Benn RSC Stratford Benn
+88 4 Liberal Democrat Tower Hamlets Kennedy Lord Lester National Party Gwyneth 

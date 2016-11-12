@@ -114,7 +114,8 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                             if question_type == 1:
                                 for ner_pair in ner_chunks:
                                     # Make sure that the person/organization is the same as what we searched for
-                                    if (ner_pair[1] == "PERSON" or ner_pair[1] == "ORGANIZATION") and ner_pair[0] != noun:
+                                    # if (ner_pair[1] == "PERSON" or ner_pair[1] == "ORGANIZATION") and ner_pair[0] != noun:
+                                    if (ner_pair[1] == "PERSON") and ner_pair[0] != noun:
                                         tokens = len(word_tokenize(ner_pair[0]))
                                         if ner_pair[0].lower() in answers_set:
                                             continue
@@ -377,7 +378,7 @@ def get_answers_with_correct_type(directory, num_to_nouns, num_to_type_dict):
                 ans[1] = answer_string
                 answer = tuple(ans)
             output.append(answer)
-        # output.sort(key=lambda t: len(t[1]), reverse=True)
+        output.sort(key=lambda t: len(t[1]), reverse=True)
         answers[question_num] = output
     return answers
 
@@ -451,13 +452,15 @@ def main():
     # # print(named_ent)
     # print(get_continuous_chunks(named_ent))
     # named_ent.draw()
-    directory = "doc_test"
+    # directory = "doc_test"
+    directory = "doc_dev"
     num_to_question = parse_question_file(directory)
     num_to_type_dict = get_type_of_question(num_to_question)
     num_to_nouns_dict, num_to_verbs_dict, num_to_supers_dict = get_dicts_from_questions(num_to_question)
 
     answers = get_answers_with_correct_type(directory, num_to_nouns_dict, num_to_type_dict)
-    output_answers(answers, "answers_type_test.txt")
+    # output_answers(answers, "answers_type_test.txt")
+    output_answers(answers, "answers_type_doc.txt")
 
 
 if __name__ == "__main__":

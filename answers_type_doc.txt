@@ -1,0 +1,1160 @@
+89 1 Guatemalan British Belizean Honduras
+89 2 Britain American Guatemala Serrano
+89 3 City UK Toledo
+89 4 Guatemalans
+89 7 Kingston
+90 10 Managed HealthCare Blue Cross Leonard D. Schaeffer
+90 7 Paper Clips Jury Denise Anderson Gesell
+90 2 Johan Vaaler Per Langaker Langanker
+90 11 Franz Liszt Booze
+90 6 Dickson
+91 25 Modern
+91 100 nil
+91 100 nil
+91 100 nil
+91 100 nil
+92 2 Such Tom Wheeler Strad Strat Fender Michael Wheeler
+92 4 Eric Johnson Johnson Jimi Hendrix Joe Satriani
+92 5 Muddy Waters Jimmy Al Hendrix Hendrix
+92 1 Mr. Fender Henry Ford Dick Dale
+92 3 Parkinson John Carruthers
+93 1 Begin Sudarshnam Chancellor Helmut Kohl Narasimha Chancellor Kohl Mr. Salman 
+93 6 Deng Xiaoping Zhao Ziyang Yang Shangkun Arunachal Pradesh Premier Li
+93 3 Article Type Kashmir Mr. Mr. K. Srinivasan
+93 4 Rajiv Gandhi Jawaharlal Nehru Dalai Lama
+93 5 Mr. Rao Bonn Begin Karuppaswamy
+94 1 year birthday flashlight England Bristol Electric Lamp Co. aluminum
+94 2 year birthday flashlight England's Bristol Electric Co. aluminum
+94 1 boat Switzerland Escher Wyss amp Co. zipper Whitcombe L
+94 2 boat Switzerland's Escher Wyss amp Co. zipper Whitcombe
+94 1 Judson
+95 3 Khamtai Siphandon Khamphoui Somsavat Lengsavat Osakan Thammatheva Seun Phetsanghan Bouason 
+95 2 Hanoi Party General Mr. Keating Le Mai Vietnamese Ambassador Vietnam 
+95 4 Lao Mr. Vang Lattanavong Mr. Michael Mann Laos Mr. Paul 
+95 1 Paul Keating Vo Van Kiet Vietnam Le Duc Anh
+95 6 Ho Chi Minh City
+96 2 Ebenezer Baptist Church Father Williams Martin Luther King Alberta Williams 
+96 1 Martin Luther Kingdom Parade Boulevard Bethel Lutheran Church Hill St. 
+96 4 Ettinger Holy Communion Stouffer Concourse Century Blvd Jesse Jackson
+96 2 Dennis Casandra Ulysees Sweet Auburn Auburn King Coretta Scott King
+96 3 Rio Hondo Golf Course Valley Beth Shalom Temple Ventura Blvd 
+97 1 doubts intentions Anubis Warpus punk store business article emotions word
+97 1 punk tends associations people people Anubis Anubis Warpus Jacek Lentz
+97 2 New block Anubis Warpus supply depot punks place punks outfits
+97 1 Brian Friedman owners Santa Cruz letter Dr. Martens shoes
+97 1 punks
+98 1 Podgorica Yugoslavia Serbia Italy
+98 3 Bosnia-Herzegovina Srpska
+98 2 Great Britain
+98 5 London
+98 4 Budva
+99 10 Nicholas Christmas Santa Claus
+99 8 Mr. Black Sea Mycenaean Greek
+99 16 Christina Jacqueline Onassis
+99 3 Howard Gods
+99 6 Abraham
+100 2 Bratislava Slovakia Budapest Hungary Slovak
+100 1 Zitny Island Hungarian Academician
+100 3 Austrian Nature Germany
+100 4 European Union
+100 5 Moravcik
+101 100 nil
+101 100 nil
+101 100 nil
+101 100 nil
+101 100 nil
+102 1 Quick Mike Barrowman Melvin Stewart Rowdy Gaines Gaines Actually Nall
+102 1 Catherine Ball Nall Tom Jager Matt Biondi Dave Berkoff Pablo 
+102 3 Jeff Rouse Janet Evans David Berkoff
+102 4 Goodwill Games Barrowman Jager Cash
+102 2 Wharton Darnyi Mitchell
+103 7 1902 1951 1911 1919 1963 1815
+103 2 1709
+103 4 1944
+103 12 1980
+103 34 1775
+104 2 Rene Bousquet Hitler Francois Mitterrand Serge Klarsfeld Bousquet Touvier Klarsfeld
+104 1 Robert Badinter Jews Badinter Laws Henri Amouroux Jews Deported Denis 
+104 3 Grand Casino Claude Malhuret Agence France-Presse Charles De Gaulle
+104 2 Mitterrand Gaulle Marshal Petain Petain Free French Alfred Grosser
+104 4 Jacques Chirac Chirac
+105 1 Philo T. Farnsworth Elma Farnsworth Utah James Avanti Farnsworth
+105 5 _Louis William D. Coolidge Vladimir Zworykin
+105 2 Fair Idaho David Phil
+105 3 Mr. Farnsworth
+105 9 Mr. McKenzie
+106 7 Huffman Prairie Hawthorne Hill Orville Wright Carillon Park Dunbar House
+106 1 Tim McClure Southwest Herb Kelleher Shamu One McClure
+106 3 Porter Walter Ramazzini Jr. Ramazzini
+106 7 Paul Lawrence Dunbar Kitty Hawk
+106 6 Gordeuk Whitehead
+107 4 Huffman Prairie Hawthorne Hill Orville Wright Carillon Park Dunbar House
+107 4 Paul Lawrence Dunbar Kitty Hawk
+107 2 Gordeuk Whitehead
+107 1 Ferguson
+107 3 Mullaney
+108 2 Holtville Coronado meet noon girls Division IV championship teams November
+108 1 game season Holtville Coronado Coronado lead Coronado end quarter minutes
+108 1 Friday Holtville Coronado San Diego Section Division IV girls basketball
+108 1 Golden Hall Holtville game Division IV champion Coronado points finals
+108 1 Coronado Coach Ernie Dickerson press Pacheco
+109 1 Barbara Jordan condition morning drowning backyard pool doctor hospital week
+109 1 Former U.S. Rep. Barbara Jordan condition morning drowning
+109 1 Jordan sign Sunday care unit nurse Ms. Jordan attention
+109 1 Ms. Jordan condition Sunday afternoon Sunday night Ms.
+109 1 backyard pool doctor hospital week Former U.S. Rep.
+110 2 Hawaii Newcastle Hawaiian Canadian Portugal
+110 13 Toronto
+110 10 Kapaau
+110 4 Akaka
+110 11 Mitch
+111 2 Edward L. Widmer Alexander Cartwright Base Ball Club David Baseball
+111 5 Jim Palmer Joe Morgan Museum Abner Graves Cooperstown Graves Clark
+111 4 Cristian Costescu Cotescu Costescu Cocut Nicolae Ceausescu
+111 3 Patrick Pasculli Pasculli Heritage Inc. Elysian Fields
+111 1 Times Cartwright Abner
+112 4 Science Goldstone Saunders Radar U.S. Flagstaff
+112 1 Magellan Pasadena Sappho Venusian Dallas
+112 6 Surface Atmospheric Earth
+112 7 Los Angeles Suspicion
+112 3 India
+113 1 Brother George E. Pickett Gettysburg Pickett Kim Holien Military History
+113 2 Abraham Lee George G. Meade Lincoln William Rehnquist
+113 4 Robert E. Lee Kim Bernard Holien Napoleonic Tactics
+113 6 Roseann McGlade George A. Custer
+113 3 Dr. Bill Steinour
+114 3 Abt Zurich Tutankhamen New
+114 1 Queens Nobles Italian
+114 6 Corona Capistrano
+114 5 Cairo Egyptian
+114 7 Long
+115 4 Panajachel Germany France Sweden Holland United States Cakchiquel Santiago Judas
+115 4 Spanish Guatemala Indios Palenque Uxmal Copan Honduras Belize American Mayan
+115 2 America Cuban Bellevue Hospital New York
+115 1 Sanches Manhattan
+115 3 Mexico
+116 5 1992 1991
+116 7 1983 1988
+116 1 1973
+116 4 1980
+116 6 1992
+117 1 Public Library William Wordsworth Age English Romanticism near-martyr fuddy-duddy cozy
+117 1 Wordsworth Paris ardor words self life Girondist party near-martyr fuddy-duddy
+117 1 William Wordsworth Paris ardor words self life Girondist party William
+117 1 comfort Dove Cottage sister Dorothy hero show New York Public
+117 1 cozy comfort Dove Cottage sister Dorothy hero show New York
+118 4 Hank Ilesic Marty Schottenheimer Ilesic Sid Brooks Charger Coach Dan 
+118 3 Libby Edelman Miriam Sirota Silverstein Edelman Navarro
+118 6 San Francisco Center Market St. San Francisco
+118 7 Steve Symkoviak
+118 2 Cerritos
+119 2 Mycerinus Zahi Santa Barbara Cayce Giza Napoleon Bonaparte Cheops Great 
+119 1 Zahi Hawass Pharaoh Cheops Giza Plateau Pharaoh Zozer Hawass Mona 
+119 7 Mahmoud Hassan Afife Amal Samuel
+119 9 Valley Temple
+119 5 Hassan
+120 7 Maryland People Chinese Rockville Washington U.S.
+120 1 Portland Maine Rhode Island Long Island N.Y.
+120 4 Safeway Place Steam Add
+120 2 Neuts Animal Ardmore
+120 8 Island
+121 2 1988 1948 1948 1989 1990 1989 1990
+121 5 1926 1926 1948 1926 1926
+121 1 1927 1927
+121 3 1988 1988
+121 4 1988
+122 5 Mr. Hale Jud XII Rich Without Doing Any Work Anyone
+122 1 Almanac Almanac Has Influenced My Life
+122 3 Witham Smith
+122 2 Farmer
+122 4 Abe
+123 4 American Schoenberg
+123 9 Baudhayan Indian
+123 13 Geometry Euclid
+123 8 Burmese
+123 1 Greek
+124 11 Martin Sosnoff Pratt Hotel Southmark Caesars World Inc Pratt Mr. 
+124 12 Nevada Donald Trump Kirk Kerkorian Mr. Kerkorian Mr. Trump Golden
+124 1 Caesars Caesars Atlantic City Caesars New Jersey Caesars World
+124 9 Henry Mr. Gluck Martin T. Sosnoff Mr.
+124 4 Wasserstein Perella
+125 1 Noches Pierrette Pierrette Wedding Pablo Picasso Drouot-Montaigne Paris bid Bunkamura
+125 1 Christie London November Mirror Pablo Picasso Sotheby New York Nov. 
+125 1 Shibuya auction house Toyko satellite hook-up Nov. Picasso Pablo
+125 1 Sotheby New York Nov. Acrobat Young Harlequin Pablo Picasso
+125 1 Picasso Sotheby New York May Au Lapin Agile Pablo Picasso
+126 6 Spanish Edelca
+126 11 Orinocotype
+126 12 Orimulsion
+126 1 Venezuela
+126 3 PDVSA
+127 4 Ngueli Australian Australia
+127 9 Queensland
+127 1 Muirhead
+127 5 European
+127 8 Canberra
+128 3 Suzuki Motor Kenji Toshiyuki Arai Yoshi Kenji Shimizu Chairman Toshiyuki 
+128 4 Anwyl Lee Sattley Astro Management Crisis Audi George Peterson Kenji 
+128 1 Doug Mazza John Dorsey Larry Messelt Yoshiyuki Arai Mr. Shimizu
+128 1 Suzuki Yoshi Fujii Mr. Mr. Mazza Mr. Dorsey Mr. Messelt 
+128 2 Suzuki Motor Co. Gary Anderson Doug
+129 5 George Heussenstamm Los Angeles Cal State Northridge Heussenstamm Highly Organized 
+129 4 Waddington Michael Buckley Brian Ellis Hasbro UK
+129 1 Monopoly Atmosfear Snakes Alfred Butts
+129 3 Mattel Action Man Sindy Barbie
+129 2 Hasbro Spear
+130 2 Peter Steen Royex president executive officer directors Royex International Corona
+130 1 shares company Corona Corp. Royex affiliates International Corona Ltd. Lacana 
+130 1 Royex Gold Mining Corp. merger affiliates Royex holder exchange
+130 2 Ltd. Lacana Mining Corp . Mascot Gold Mines Ltd. Galveston 
+130 3 Royex stake Mascot Gold Mines Lacana Mining Corp. order
+131 2 1984 1984 1984 1984 1943 1943
+131 4 1943 1984 1984 1984
+131 6 1992 1992 1991
+131 1 1984 1984
+131 3 1984
+132 7 European Europe London U.S. Gillette New
+132 3 New Zealand Australian
+132 1 Azaria Australia
+132 5 Chamberlain
+132 4 Uluru
+133 3 1986 1983
+133 8 1984 1984
+133 5 1983
+133 6 1983
+133 9 1983
+134 1 Archbishop Desmond Tutu members Harvard University board Sunday divestment South
+134 1 president reality news conference meeting Board Overseers Tutu South President
+134 1 Africa changes country's president reality Archbishop Desmond Tutu members
+134 1 Harvard University board Sunday divestment South Africa changes country's
+134 1 F.W Sanctions place conditions Tutu Tutu Nobel Peace Prize efforts
+135 18 1988 1989 1985
+135 7 1979 1979
+135 2 1989
+135 6 1979
+135 16 1979
+136 75 1981 1880 1885 1886
+136 30 1536 1733
+136 66 1920s
+136 8 1519
+136 81 1991
+137 4 Waipio Valley Hawaii County Fire Battalion James Higashida Marine Corps
+137 1 Guard Guard Cutter Point Harris Hawaii Island Maui Island Coast 
+137 2 Maui Hilo Airport Kahului Airport Hartvigsen
+137 4 Hawaii County Civil Defense Bruce Butts
+137 3 Harris
+138 1 Seibu Railway Group Forbes Tsutsumi Shin Kyuk-ho Hirotomo Takei Kitaro 
+138 8 Walton Taikichiro Mori Kenneth Cole Irving Mansfield Freeman
+138 5 Donald J. Trump Yoshiaki Tsutsumi
+138 4 Yoshiaki Fortune Sam Walton
+138 6 Sam Moore Walton
+139 4 Madden Robinson Denver Earnest Byner Cleveland John Elway Webster Slaughter
+139 3 Miami Pete Stoyanovich Matt Bahr Stephen Braggs Felix Wright Louis 
+139 2 Frank Minnifield Bud Carson Elway Bernie Kosar Cleveland Browns
+139 1 Coach Bud Carson Owner Art Modell Carson Jim Shofner Shofner
+139 1 Marty Schottenheimer Schottenheimer Modell
+140 5 Rushdie Verses Koran Allah Zaki Badawi Iqbal Sacranie
+140 6 Salman Mohammed Ali Mahgoub Youssef Ahmed El Sharkawy
+140 1 Prince Reza Pahlavi Mohammed Jesus Maqbool Mahound
+140 2 Islam Arab Salman Rushdie Ayatollah Khomeini
+140 3 Imam Ayatollah Khomeini
+141 13 Tornadoes Iowa Oklahoma Nebraska
+141 17 Baton Rouge Tornados
+141 19 Midwest Illinois
+141 1 Chicago
+141 9 Texas
+142 100 nil
+142 100 nil
+142 100 nil
+142 100 nil
+142 100 nil
+143 1 Depardieu Weir MacDowell slick marriage convenience something route decades Neil
+143 1 Witness Harrison Ford Kelly McGillis cheek-to-cheeking Sam Cooke's World
+143 1 Witness Harrison Ford Kelly McGillis cheek-to-cheeking Sam Cooke's World
+143 1 Hollywood back Card actor Gerard Depardieu Australia Peter Weir Society
+143 1 Hollywood back Card actor Gerard Depardieu Australia Peter Weir Society
+144 1 collector history buff artifacts year Billings Mont bidders auction floor
+144 1 Bill Cody Friday rifle Museum curators history buffs cowboys collection
+144 1 Museum curators history buffs cowboys collection William F. Buffalo
+144 1 Bill West Buffalo Bill collection Greg Martin San Francisco gun
+144 1 William F. Buffalo Bill Cody Friday rifle West Buffalo
+145 6 Asian Japanese Pepsi Thai London England Americans Bangkok Thailand
+145 1 Bridge India Which Arabia Source
+145 3 Lean British Allied
+145 2 America
+145 7 Europe
+146 5 Bruce Green Kettner Boulevard Green Peter Walker Martha Schwartz Austin 
+146 4 Barton Myers Stanton Eckstut Battery Park City Daniel Solomon Richard 
+146 2 Park Ed Foster Ron Oliver Lawrence Halprin Horton Plaza
+146 3 San Diego Wheeler Wimer Blackman Lacks Kimball Park
+146 6 Robin Morris
+147 55 Phillip Williams Times Mirror
+147 45 Paper Association
+147 46 Stone Container
+147 51 Abitibi
+147 62 Repap
+148 2 U.S. Northern Wright
+148 3 Rota Twelve
+148 9 Electricity
+148 4 Inarajan
+148 1 Saipan
+149 4 America Seattle Altair Wallace American
+149 9 Japanese Europe
+149 8 Washington
+149 7 Example
+149 6 Gates
+150 5 China Croatia Bosnia-Herzegovina Moldova Hungary Romania Ceausescu
+150 3 Hungarian Hungarians Transylvania Transylvanian Napoca Roman
+150 1 Dutch Romanian Bucharest Netherlands Europe
+150 2 ROMPRES German Germany European Reform
+150 4 Paris
+151 4 1989 1989 1989 1989 1988 1989 1988
+151 1 1963 1963 1950s 1950s
+151 2 1963 1963 1950s 1950s
+151 6 1982 1985 1982 1985
+151 5 1989
+152 8 Jane Seymour Henry VIII Edward VI Del
+152 5 Ronald Reagan George Bush
+152 4 Richard III George III
+152 9 William Brewster
+152 10 John Cabot
+153 1 Duvall Queen Elizabeth Queen Johanna Grete Schickedanz Yoshiaki Tsutsumi
+153 4 Michael R. Milken Mars Queen Elizabeth II
+153 13 Donald J. Trump Fortune
+153 5 Emma Dockendorff
+153 2 Elizabeth II
+154 13 1906 1906 1906
+154 2 1906 1906
+154 7 1906 1906
+154 8 1906 1906
+154 14 1906 1906
+155 21 1986 1977 1988
+155 88 1991
+155 100 nil
+155 100 nil
+155 100 nil
+156 12 1990 1991 1975 1980s
+156 9 1994
+156 10 1991
+156 11 1993
+156 15 1995
+157 8 Bob Coyne Spike Michael Jordan Lanier Brooslin Carol Sherman Ira 
+157 7 James Naismith
+157 3 Bob Cousy
+157 2 Morrison
+157 5 Taylor
+158 1 Zebulon Pike mountaintop Pikes Peak Zebulon Pike mountaintop Pikes Peak
+158 2 date Zebulon Pike mountaintop Pikes Peak date Zebulon Pike mountaintop
+158 3 date Zebulon Pike mountaintop Pikes Peak date Zebulon Pike mountaintop
+158 2 Pikes Peak
+158 3 Pikes Peak
+159 1 Psychologist Charles Hoffman San Bernardino Peter Uhlenberg Chapel Hill Older
+159 1 Kathleen Welch Divorce Welch Wives Hoffman
+159 3 Herman Novack Standard
+159 4 Kim Wallerstein James
+159 2 Moffitt
+160 1 players agency offers clubs Langston heard Seattle ownership Langston seasons
+160 1 pitcher Langston agent Arn Tellem source Wednesday meeting Langston Tellem
+160 1 Angels process today Fred Claire Dodgers executive vice president meets
+160 1 Langston San Diego Padres basis location bidding coast coast Monday
+160 1 Set battle agents Mark Langston Robin Yount Freeway Series nature
+161 2 European Monetary Institute policies Community member states inflation operations January
+161 1 MR Philippe Maystadt finance minister yesterday European Monetary Institute policies
+161 3 stage union January year European Monetary Institute EMI operations
+161 2 Mr Philippe Maystadt finance minister yesterday
+161 1 EC member states inflation operations January
+162 1 Giza Plateau Cheops Mycerinus Zahi Hawass Santa Barbara Giza Napoleon 
+162 9 Pharoah Amenemhet Amenemhet Albanian Mohammed Ali Abu Rawash Djedefre
+162 5 Pharaoh Cheops Pharaoh Zozer Mona Lisa East Cemetery
+162 2 Great Pyramid
+162 4 Zahi Hawass
+163 1 helmet goggles flight Charles Lindbergh heroes aviator reporters Charles Lindbergh
+163 1 Bourget airfield Charles Lindbergh solo flight bear Charles Lindbeargh aviator
+163 1 Christopher Lee Marshall wing Mooney aircraft Le Bourget airfield Charles
+163 1 Lindbergh solo flight Christopher Lee Marshall wing Mooney aircraft Le
+163 1 heroes aviator reporters Lindbergh Christopher stops New York Paris _
+164 4 Clemson Beats Oklahoma Troy Aikman Terry Donahue Gil Brandt Aikman
+164 1 Seven Rose Bowl Bo Schembechler Jackson Bob Griese Florida State
+164 1 Nebraska Citrus Bowl Gary Bender Ohio State Auburn Stacy Danley
+164 1 Shayne Wasden Simpson Notre Dame George Gipp George Kemp Gayle 
+164 3 Michigan Peter Tom Willis Fiesta Bowl
+165 100 nil
+165 100 nil
+165 100 nil
+165 100 nil
+165 100 nil
+166 1 Australian Sydney Cairns Australia Hobart Adelaide Brisbane Canberra Perth
+166 2 Direct Japan Los Angeles Auckland Qantas Queensland
+166 8 England New South
+166 4 Werribee
+166 6 Austereo
+167 1 Levy Scott Norwood Bills Buffalo
+167 5 Pendragon Charlotte
+167 7 Bush Barbara
+167 12 Antiques
+167 8 Hughes
+168 2 PORT-OF-SPAIN British Americans Kingston Bakr Libya Britain
+168 1 United States Moslem U.S. Washington Khan Tobago
+168 6 Carmichael Guyana Islam Moslems American Luxner
+168 5 Miami Unpopular Christian Shah Mirror
+168 3 Trinidadian Venezuela
+169 3 Soviet Union Copenhagen Greenland Alaska Canada Soviet Siberian
+169 5 Jull Inuit Canadian
+169 7 Soviet Arctic
+169 11 Food Indian
+169 12 Siberia
+170 1 1911 1911 1911 1911 1911
+170 4 1988 1985 1976 1988
+170 2 1988 1985 1976
+170 3 1977 1986 1988
+170 7 1977 1986
+171 3 South Africa Rehoboth Windhoek Bushmen
+171 2 Romano Hayman
+171 5 Botswana
+171 1 Namibia
+171 4 Windus
+172 1 Kennedy International Airport Lyudmila Vlasova Alexander Godunov Michael Dukakis George 
+172 8 Disease Control Denmark East Germany
+172 10 Assembly Sahabzada Yaqub Khan
+172 7 Richard Gephardt
+172 6 Ronald Reagan
+173 4 Morihiro Hosokawa Hosokawa Clinton Empress Michiko Emperor Showa
+173 3 Peng Noboru Takeshita Akihito Li Qian Qichen Sousuke Uno Zhao 
+173 2 Zhu Rongji Emperor Akihito Zhu
+173 5 Jeffrey Ku Ku
+173 1 Bill Clinton
+174 1 James Garfield Charles Guiteau Jonathan Hadary William McKinley Leon Czolgosz
+174 2 Garfield Eddie Korbich Franklin D. Roosevelt Anton Cermak Terrence Mann
+174 3 William L. McKinley Mr. McKinley Wall Street Mr. Gerber Mr 
+174 4 Robert Carlson Milner
+174 2 Emma Goldman
+175 25 1986 1990
+175 21 1994
+175 22 1991
+175 24 1986
+175 46 1948
+176 5 Soprano Maureen Chowning John Chowning Le Nozze Mathews Richard Boulanger
+176 4 Hughes Edwin Armstrong
+176 2 Schaefer Philco
+176 5 Hermann Hesse
+176 1 Michael Sony
+177 100 nil
+177 100 nil
+177 100 nil
+177 100 nil
+177 100 nil
+178 4 Panama Delvalle Bush Persian Gulf Zia Shuttle Discovery Mithileshwar Singh
+178 4 Pinochet Ferdinand Marcos Andrei Sakharov Arafat Lyndon LaRouche
+178 1 Carter Mariel Key West Eight Sandra Anwar Sadat Bomb Bahshir 
+178 3 Chester A. Arthur James A. Garfield John F. Kennedy Reagan
+178 3 Boston Celtics Red Auerbach
+179 4 France Music Santa Cruz Cabrillo Mozart Britten Palestinian Mediterranean Middle 
+179 3 Juliet European Nagano January New York City Ballet
+179 5 American Belle Rose Sinfonia Serenade Children Aria
+179 2 China Klinghoffer U.S. Brooklyn Church
+179 1 Liszt English
+180 8 Le Dejeuner Alias Manet Richard Holmes Footsteps Cecily Mackworth
+180 26 Nilsen Using Projector Draws Olympia Thomas Sharpe
+180 9 Paul Wunderlich Leaf Edouard Manet
+180 32 Ceramics Fair Antiques Fair
+180 7 Clorox
+181 3 chariot pickup truck order begins Quetzalcoatl powers play thrust Buscando
+181 3 scene god Quetzalcoatl confrontation Carlos drug dealer vato money women
+181 2 calendar stone found Mexico City chacmool figure ruins Chichen Itza
+181 2 bas-relief ball court El Tajin god pulque pungent wine downfall
+181 2 Quetzalcoatl priest-leader Tula
+182 10 Second Teague
+182 5 Biden Harris
+182 3 McCleskey
+182 7 Brain
+182 14 Mosk
+183 100 nil
+183 100 nil
+183 100 nil
+183 100 nil
+183 100 nil
+184 4 1953 1953 1961 1961 1953 1814 1963
+184 5 1961 1961 1961 1945 1958 1958
+184 3 1961 1961 1961 1961
+184 2 1961 1961 1961
+184 1 1961 1961
+185 27 1505
+185 84 1934
+185 100 nil
+185 100 nil
+185 100 nil
+186 2 COMMUNITY HOSPITAL LOS GATOS-SARATOGA Moazeni Reza Sharhrzad San Jose boy
+186 1 STANFORD UNIVERSITY MEDICAL CENTER Holstege Mary Ford Dan Milpitas girl
+186 1 Nov. KAISER PERMANENTE MEDICAL CENTER Paulino Ramon Debra San
+186 1 girl Nov. Hipolito Bong Nilda San Jose girl Nov. Ayala 
+186 1 Jose girl Oct. Lujan Tina Gonzalez Hector San Jose
+187 4 Michinori Yamanouchi Mazda Motor Corporation
+187 5 Yutaka Kume Nissan Motor Lloyd E. Reuss
+187 3 Rod Bymaster Mazda Motor
+187 1 Mazda
+187 8 John
+188 1 Gamble U.S. Patent Italian
+188 2 Cincinnati South Carolina
+188 3 Huggies Wichita
+188 6 Tognietti
+188 7 Court Pa
+189 1 1980 1982
+189 4 1986
+189 15 1979
+189 16 1976
+189 18 1976
+190 1 William Hoeveler Terry Bienstock Steve Haworth Sanford Noriega Panamanians
+190 2 Manuel Noriega Bienstock Hoeveler Bernius Panama
+190 7 Noriega Tapes Mr. Turner Keiji Shima Ted Turner
+190 5 Sanford Bohrer Gannett Frank Rubino
+190 8 Ed Turner Turner
+191 1 primatologist Jane Goodall pictures armless monkeys clever signs Imagine body
+191 1 primatologist Jane Goodall pictures armless monkeys clever signs Imagine body
+191 1 instance Goodall crowd Santa Monica College gymnasium palm hand chimpanzees
+191 1 Goodall chimps Gombe Stream National Park Tanzania years audiences Tuesday
+191 1 species millions wild Goodall practices Lecture Tour Slim hair ponytail
+192 6 1973 1981 1981 1981 1987 1987 1987 1992 1992 1992
+192 7 1986 1986 1986 1986
+192 10 1997 1997 1997 1997
+192 3 1978 1978
+192 16 1972
+193 2 Hartford McManus New Hampshire Massachusetts
+193 1 Boston America Small New England
+193 6 Airport Midwest Chicago
+193 4 R-N.Y. Massport
+193 3 U.S. Similar
+194 1 Northern Ireland Spain Opinion Ireland Spanish French Irish Madrid
+194 2 Speech Vizcaya Marcos Merino
+194 5 Euskadi Certain Catalonia
+194 3 Basque France European
+194 4 Europe Jauregui
+195 1 Gabriel Star Wars James Earl Jones Darth Vader Lucas Jones
+195 4 Mickey Mouse Pat Griffis Panasonic Ohio Art Etch A Sketch
+195 2 Mario Van Peebles Troy Maxson Maxson Hill
+195 1 Klein Ann Miller Van Johnson Jackson
+195 5 Wicket Terrain Attack Transport
+196 1 Stallone Richmond Baltimore New York Usher
+196 6 Freudian America
+196 4 Virginia
+196 3 Boston
+196 5 Being
+197 1 Irish Colorado Sugar Cotton Tennessee Pasadena Nebraska Illinois Virginia New 
+197 4 Cotton Bowl Washington
+197 2 Cal Florida
+197 5 Citrus
+197 3 Texas
+198 5 1980 1980 1980 1980
+198 4 1980 1982 1980
+198 3 1980 1980
+198 1 1982
+198 2 1982
+199 1 San Jose Sunnyvale Santa Clara
+199 8 College Rider Athletics
+199 4 Los Angeles Cicero
+199 2 City Saratoga
+199 3 Cupertino
+200 13 Alexandria Boston Moriarity Washington Mutual Omaha New York Los Angeles
+200 13 Denver Children Arizona
+200 1 Henderson
+200 3 Las Vegas
+200 4 Phoenix
+201 1 Miss Piggy Mickey Mouse Walt Disney World Jim Henson Fozzie 
+201 4 Disney Brian Henson Kidder Peabody Christopher P. Dixon
+201 2 Miss Dumbo Katzenberg Kermit Scooter Susan Berry Berry
+201 7 Sesame Street Barbara Bush Mr. Henson
+201 6 Sam
+202 1 1789 1789
+202 3 1789 1789
+202 2 1789
+202 4 1789
+202 5 1789
+203 6 South Africans St. Mary South African Los Angeles U.S.
+203 1 Witwatersrand Johannesburg Troyeville Nothing
+203 2 Moss South August London South Africa
+203 3 Witwatersand United
+203 6 Clegg
+204 4 1985 1937 1839 1839 1839 1839 1934 1934
+204 3 2000 2000 2000 1911 1934 1934 1934
+204 1 1911 1911 1911 1934 1934 1934
+204 5 1911 1911 1911 1934 1934 1934
+204 2 2000 1911 1934 1934 1934
+205 1 Western Europe Star Wars Clifford Stoll Alexander Prechtel Prechtel Chaos 
+205 5 Katie Hafner John Markoff Simon Schuster Cyberpunk Markoff Kevin Mitnick
+205 2 Zimmermann Norddeutsche Rundfunk Bardeen Willy
+205 4 Dan Howard Howard Clifford Stoll Optimus
+205 3 Markus Hess Unix Mr. Stoll Berkeley
+206 4 Ceclor Humulin Humantrope Prozac
+206 3 U.S. Japan Tokyo Osaka Nagoya
+206 2 Indianapolis
+206 6 New York
+206 1 Lilly
+207 1 Massachusetts Washington America Arts Little American Education Beyond Arkansas Little 
+207 2 New Hampshire Florida South Chicago Nixon Children Chelsea Iowa
+207 4 Target New Hope
+207 5 National
+207 3 Bill
+208 4 TOURISM London Culture Extra Americans International Scotland Highlands Ayrshire Dumfriesshire
+208 5 American Chicago Next Northwest American Airlines British Airways New York
+208 1 America Canada British Empire Sniper
+208 4 Business Pounds
+208 2 Total Europe
+209 2 James Boswell Lady Mary Wortley Montagu William Cowper Thomas Gray
+209 1 Johnson Redford Samuel Johnson David Garrick Samuel Richardson
+209 2 Horace Walpole Mr. Redford Thrale Scotsman Henry Herbert Earl
+209 3 Edmond Malone Malone Sir Joshua Reynolds John Courtenay
+209 4 Bob Mann Henry College
+210 3 John Quarterman Cyberspace
+210 8 Hobbes Robert H Zakon
+210 5 Michael Benedikt
+210 1 William Gibson
+210 4 Freedom Tribe
+211 3 Carlos Menem Itamar Franco Juan Carlos Wasmosy Luis Alberto Lacalle
+211 2 La Bolivian Eduardo Frei Patricio Aylwin Sanchez Latin America
+211 4 Enrique Silva Cimma Silva Cimma Begin Silva Cimma Aylwin
+211 1 Gonzalo Sanchez Latin Lozada
+211 3 Uruguay Bolivia Losada
+212 4 1975 1975 1969 1973
+212 1 1975 1975
+212 6 1982 1982
+212 8 1954 1954
+212 7 1978
+213 1 Christmas Past Christmas Present Christmas Future Charles Dickens Vina St. 
+213 3 Jack Benny Municipal George Choppelas Scrooged Wyman Spalding Jacob Marley
+213 1 John Fink Marley Richard Stretchberry Ebenezer Scrooge Cratchit Tiny Tim
+213 2 Scrooge Spirits Stewart Nicholas Nickleby Humbug
+213 3 Frank Winston Angela Alioto Noah Griffin
+214 2 Chuck Yeager Glennis Air Michael Adams
+214 1 Air Force Yeager Scott Crossfield
+214 8 Dulles Airport
+214 12 Oxnard Sgt
+214 13 Rick Hauck
+215 1 Orange Todd Murphy Freeway Emergencies Murphy Orange County Mike McFerrin
+215 1 Language Line Farsi Highway Patrol Rick Criner Criner San Diego
+215 3 Santa Cruz Bob Brock Sylvia Stewart County San Francisco Maria 
+215 1 Riverside Patrol
+215 2 Calls Company
+216 2 Garrey William Brady William Bonney Henry McCarty Lincoln County Sheriff 
+216 1 Brushy Bill Bonney Lincoln Sheriff Pat Garrett Billy Hico Lincoln 
+216 5 Val Cagney George Lucas Willow Iceman William H. Bonney Turner 
+216 3 Paul Andrew Hutton John Wayne Jane Russell Bill Ted Larry 
+216 4 William Tunstill Ollie L. Sheriff Pat Garrett
+217 3 Prince Charles Douglas Hurd Jonathan Aitken Sky Buckingham Palace Barry 
+217 6 Charles Windsor Queen Victoria Jack Straw Labour
+217 7 Michael Portillo Dennis Skinner Labour MP
+217 1 John Habgood Ashdown Frost
+217 2 Asdown
+218 1 New York Post New York Manhattan
+218 3 Style American
+218 7 Australia
+218 8 U.S.
+218 10 Post
+219 3 Guinea South America Peru
+219 1 Nonpedigree Yersinia
+219 7 Toxicity Capsaicin
+219 6 Hatch Utah
+219 2 Baker
+220 5 Saugerties Aerosmith Soundgarden Beatles America Melanie New York
+220 4 Americans Grossinger N.Y. Yasgur
+220 3 Neighbor Crosby Young
+220 1 Arthur Bethel
+220 6 Swan Lake
+221 4 Horton Beginner Books Random House Video Red Fish Blue Fish
+221 2 Appeals Municipal George T. Choppelas Choppelas Christmas
+221 5 Vanguard Press Boris Karloff Dick Jane Geisel
+221 3 Ebenezer Scrooge Kriss Kringle Scrooge
+221 1 Hilary Stole Christmas
+222 1 1937 1937 1937 1950s 1938 1932 1932 1937 1963 1973
+222 2 1932 1932 1932 1937 1939 1944 1946
+222 3 1959 1931 1959 1931 1959 1931
+222 1 1936 1939 1936 1939
+222 4 1932 1932 1932 1932
+223 1 Howard University Sula Tar Baby Robert Waldman Lincoln Alexander Graham 
+223 3 Miss Morrison Knopf Albert Schweitzer Mr. Gottlieb Mr. Toni Morrison
+223 6 Solomon Cutner Mozart Wood Gwendoline Byrne
+223 5 Alfred A. Knopf Margaret Garner
+223 2 Morrison Moynahan Emmett
+224 1 Fred Silverman Silverman William Conrad McCabe Joe Jake Styles Hawaii
+224 3 Kim LeMasters Paul Witt Lee Horsley Murphy Brown Knots Landing
+224 2 Van Dyke Rob Petrie Dick Van Dyke Show Reiner Carl
+224 2 Jerry Van Dyke Dick Van Dyke Jerry Van Dick Van
+224 1 Larry Drake Benny Stulwicz
+225 3 Major League Baseball Lenny Cosby Father Dowling Mysteries Wiseguy Twin 
+225 1 Fred Silverman Silverman William Conrad McCabe Joe Jake Styles Hawaii
+225 2 Van Dyke Rob Petrie Dick Van Dyke Show Reiner Carl
+225 2 Jerry Van Dyke Dick Van Dyke Jerry Van Dick Van
+225 1 Larry Drake Benny Stulwicz
+226 1 Caracas Haiti Haitian United States France Canada Friends U.S.
+226 5 Brazilian Puerto Ayacucho Brazil Franco
+226 4 Brasilia Venezuelan London Bogota
+226 2 Antillean Haitians Washington
+226 3 Port-au-Prince Jamaican
+227 4 Waxahachie David Glass Ark Sears Roebuck Bud Regular Millie Wall
+227 1 Michaels Stores Inc. Sam Walton Helen Paul Carter Sam
+227 2 Mr. Walton Mr. Whyte
+227 1 Hypermart
+227 3 Phillips
+228 3 Christian David Hartman Nancy Dussault Gibson Kevin Kline William Shakespeare
+228 5 Bryant Gumbel Dave Garroway Pauley Jack Reilly Weatherman Willard Scott
+228 1 Joan Lunden Good Morning America John Palmer Faith Daniels Kathleen 
+228 2 Deborah Norville Jane Pauley
+228 4 Susan King
+229 2 1987 1991 1987 1991 1985 1985 1989
+229 5 1989 1989 1991 1991
+229 7 1984 1992 1992
+229 6 1990 1984
+229 3 1985
+230 4 Southland Southwest Disneyland Airports Los Angeles City Council
+230 1 Los Angeles Palmdale Valley Ridership Ontario Roth Victorville
+230 2 Los Sylmar Anaheim
+230 5 Orange California
+230 3 Nevada
+231 6 1922
+231 13 1979
+231 14 1990
+231 19 1970
+231 20 1985
+232 2 Sununu Technology Cambridge Palo Alto Calif Tufts Children Engineering New 
+232 6 South Africa U.S. South African
+232 8 Mass Israeli
+232 3 Urban
+232 1 Free
+233 8 1988 1950 1950
+233 3 1986 1973
+233 10 1988
+233 11 1986
+233 12 1988
+234 1 Politz decision U.S Peter Butler attorney A. Copeland Enterprises
+234 1 Peter Butler attorney A. Copeland Enterprises Inc. company
+234 1 Inc. company New Popeyes Famous Fried Chicken Judge Henry
+234 1 A. Politz decision U.S stay Butler obstacle Butler
+234 1 New Popeyes Famous Fried Chicken _ Judge Henry A.
+235 4 1989 1991
+235 5 1968 1959
+235 2 1960s
+235 3 1960s
+235 8 1990
+236 3 American Canada Arnold Wiccan Samhain Belthane Canadian Churches Western Europe
+236 3 Montpelier Starhawk San Francisco Sabrina Enchantment
+236 1 U.S. Satan Satanism
+236 6 Washington Eight
+236 4 Rosegate
+237 5 Yellowknife Australia Canadian Industrial
+237 1 South Africa South Zimbabwe
+237 3 Angola Venetia
+237 2 Argyle
+237 4 Russia
+238 4 1989 1989 1990
+238 5 1973 1970
+238 1 1984
+238 3 1982
+238 7 1990
+239 2 Wayne Hays job representative district John Malick Belmont County commissioner
+239 1 something Terrence Malick Arthur Penn Bonnie Clyde deal violence something
+239 2 friend congressman Malick Hays man constituents day Hays Cleveland farmer
+239 2 Wayne car farmer calf Malick Malick Hays Kennedy presidents Harry
+239 1 Terrence Malick Arthur Penn Bonnie Clyde deal violence
+240 4 Wembley Wigan Widnes Silk Cut Challenge Winston Churchill Llanelli Leicester
+240 1 Andre Joubert Ulrich Schmidt Rudulf Straeuli Jack Rowell Tony Underwood
+240 5 Brett Mullins Wales Italy Zealand Jacques Fouroux Pugh
+240 3 Gloucester Coventry Welsh Tony
+240 4 David
+241 6 Wyatville British Architects Pavlovian Victorian English Pugin Gothic
+241 5 Heeley Sheffield
+241 2 Palace Paddock
+241 3 London
+241 4 Thames
+242 4 Miss Oslin Dallas Patrick Duffy Strait Williams Miss McEntire Rodney
+242 1 Rosanne Cash Kathy Mattea Reba McEntire Randy Travis Ricky Van 
+242 3 Female Vocalist Vocal Earl Thomas Conley
+242 6 Patty Loveless Johnny Cash
+242 4 Dwight
+243 4 1948 1970s 1993
+243 2 1995
+243 12 1995
+243 30 1985
+243 100 nil
+244 1 Tender Morton Gould Sammy Parish Dames Footlight Parade Ca Hilliard
+244 4 Tin Pan Alley Academy Anchors Aweigh Myra Breckinridge Dick Powell
+244 2 Andrews Sisters Oscar Fain Academy Award
+244 1 Walt Disney
+244 3 Never Was
+245 3 Dustin Hoffman Harry Hoffman Academy Award Raymond Babbitt Jodie Foster
+245 2 John Daly Ben Crowkiller Dennis Banks Hicks Bear Hollywood Allison
+245 1 Jimmy Dean Alan Betrock James Dean Lolita Pier Angeli Ursula 
+245 3 Kline John Cleese Michael Palin Geena Muriel Academy Awards
+245 2 Added Roddam Wirth
+246 10 1983 1983 1936 1936 1940s 1974 1974 1966
+246 34 1930s 1940s
+246 19 1983
+246 35 1963
+246 51 1988
+247 6 1637
+247 10 1878
+247 16 2002
+247 34 1992
+247 85 1841
+248 3 Santa Clauses License Revoked Timothy Dalton Robert Davi Dalton Davi
+248 3 Carey Lowell Felix Leiter Franz Sanchez Antonio Noriega Panama Pam 
+248 1 James Line Sean Connery Roger Moore James Bond Bond Mary 
+248 5 Cubby Broccoli George Lazenby Her Majesty
+248 2 Mary
+249 6 West Orange N.J. California Japanese Petersen
+249 3 Victorian New Jersey
+249 4 Angels Washington
+249 1 Judaism Greta
+249 7 Altadena
+250 100 nil
+250 100 nil
+250 100 nil
+250 100 nil
+250 100 nil
+251 7 1939 1970s 1939 1939 1939
+251 3 1939 1939
+251 1 1939
+251 6 1944
+251 15 1944
+252 4 Lansford Wesley Walls Frank Stams Flagler Robert Delpino Mark Herrmann
+252 3 George Seifert Seifert John Robinson Don Griffin Tim McKyer Larry 
+252 1 Louis County Board Robert J. Quinn Louis County Louis City
+252 4 Ernie Zampese Zampese Everett St. Louis San Diego
+252 5 White Quick Jacob Michael Crawford Crawford
+253 3 China American Camden N.J. Pennsylvania Essex U.S. Beijing
+253 2 Costa Mesa Riverside County Anton Chattanooga Baldwin
+253 4 Polish Poland Germany Wolsztyn Europe Berlin
+253 3 Chinese Tangshan Valley Datong
+253 1 Rail Round Los Angeles
+254 1 1989 1976 1976
+254 2 1989 1976 1976
+254 3 1980
+254 8 1980
+254 9 1980
+255 2 Thai Tak Burmese Karens
+255 3 India Thaung Htun
+255 1 Mae Sot Thailand
+255 5 Rangoon
+255 4 Maung
+256 1 Stevie Wonder Academy Wonder Songwriter Lloyd Chiate Lee Garrett Mr. 
+256 4 Morton Gould Sammy Parish Dames Footlight Parade Ca Hilliard Walt 
+256 2 Lloyd Chiate Steveland Morris Academy Award Robert Apfelzweig
+256 3 Billy Davis Jr. Marilyn McCoo Eddie Money Stevland Morris
+256 3 Dodell Broadcast Music
+257 3 1983 1975
+257 6 1856 1912
+257 10 1814 1912
+257 4 1987
+257 11 1987
+258 3 Letraset Color Digital Marketing Adobe Type Manager
+258 12 Disk Manager-Mac Classic Disk Manager Mac
+258 7 Apples Windows PCs
+258 1 Adobe Publisher
+258 10 Logitech
+259 5 Sputnik Cosmonaut Yuri Gagarin Alan Shepard Jr. Kennedy Cosmonaut Valentina 
+259 7 Space Administration Freedom Ellen Ochoa
+259 1 Lisa Malone Malone Atlas Centaur
+259 6 Ride Mr. Fletcher
+259 2 Discovery
+260 2 1566 1981 1988 1999
+260 5 1503 1566
+260 1 1981
+260 3 1981
+260 6 1988
+261 1 1987 1990 1987 1990 1987 1990 1987 1990 1980s 1920s
+261 3 1987 1990 1987 1990 1987 1990 1987 1990
+261 4 1929 1932 1929 1932
+261 1 1980s 1920s
+261 2 1990 1990
+262 1 Elizabeth Falk Lee Fred Lasswell Barney Google Snuffy Smith Billy 
+262 1 Houston Chronicle Jeff Millar Tank McNamara Johnny Hart Jim Davis
+262 1 Reuben Award Cathy Miss Peach Beetle Bailey Marmaduke Momma Bill
+262 2 Davis Herald Paul Brad Bushell Bushell Charles Schultz Peanuts
+262 3 Mell Lazarus
+263 3 British Panama Manx
+263 6 UK Source
+263 7 European
+263 1 Europe
+263 2 Man
+264 1 Paul Needham Sotheby Huckleberry Finn Samuel Langhorne Clemens Gluck Twain
+264 2 Mark Train Perry Tom Sawyer Materials Review Committee Mark Twain
+264 4 Pat Shaw Mark Becky Thatcher Mark Twain Community Golf Course
+264 4 Mr. Clemens Arthur Huck Finn Mr. Hare Huck Finn River 
+264 2 Joanne Savage Joanne Huck
+265 3 Ann Rutherford Scarlett O'Hara Carreen Judy Garland Butterfly McQueen Patrick 
+265 4 Hamilton Kennedy Butler Rhett Butler Ashley Wilkes Ellen Bonnie Grandmother 
+265 1 Scarlett Robert Halmi Alexandra Ripley Rhett Stroud Ted Turner Vivien 
+265 2 Warner Life Ripley Warner Books Ashley Savannah Atlanta Tara Slavery
+265 5 Tomorrow Peachtree Street Loew
+266 1 1980 1985 1980 1985 1980 1985 1973 1986 1986 1986
+266 3 1975 1975 1986 1975 1975 1975
+266 2 1973 1986 1986 1986 1961
+266 1 1961
+266 4 1986
+267 2 Sture Allen Latin America Spaniard Vicente Aleixandre Gabriel Garcia Marquez
+267 1 Camilo Jose Cela Cela Latin Allen Michael Bishop Harold E. 
+267 3 Octavio Swedish Academy Paz Adam Bromberg
+267 4 Poet Hamid Saeed Arab Writers Mahfouz
+267 2 Alfred
+268 1 Pitts Cottle
+268 10 Annabel Lee
+268 8 Collins
+268 3 Peter
+268 9 Poe
+269 5 Maytag Magic Wayne Creagan Rymer Maytag Chairman Daniel J. Krumm
+269 6 Magic Chef Air Daniel J. Krumm Hardwick
+269 2 Robert B. Propst
+269 4 Magic Chef
+269 7 Microwave
+270 10 1986 1985 1986 1985 1986 1985
+270 1 1988 1988 1988 1987
+270 4 1990 1990 1990
+270 3 1991
+270 8 1986
+271 1 Led Zeppelin Elvis Singer Gregg Tortell Tortelvis Page Whole Lotta 
+271 2 Physical Graffiti Robert Plant Guns N Atlantic Black Sabbath Iron 
+271 3 Jason John Bonham Led Zeppelin Too Daniel MacMaster Plant Led 
+271 5 Dread Zeppelin Gilligan Blue Hawaii Dread
+271 4 Jimmy Page John Paul Jones
+272 57 Marks Kid Millions Modern Times Pot 'o Gold Star Spangled 
+272 1 Lady Thatcher Wilde Manchester Ideal Husband
+272 54 Earnest Queensberry
+272 4 Oscar Wilde
+272 100 nil
+273 4 2000 2000
+273 1 2000s
+273 2 1896
+273 3 2000
+273 6 2000
+274 2 Bruno Richard Hauptmann Anne Spencer Morrow Lindbergh Amwell Township Lindbergh
+274 1 Anna Hauptmann Charles Lindbergh Hauptmann
+274 6 Tim Mayer Mr. Katcher Bruno Hauptmann
+274 3 David Wilentz Robert Norma Hess
+274 4 Ries Richard Byrd Byrd
+275 2 Andrey Kozyrev Butrus Butrus-Ghali
+275 7 Africa People Welcomes
+275 4 Namibia Further
+275 3 Georgia
+275 1 Butrus
+276 1 Baron Munchausen Freeman Kenneth Branagh Henry V Daniel Day-Lewis Christy 
+276 2 Oscars Shirley Valentine Harry Met Sally Maurice Jarre Miss Collins
+276 3 Woody Allen Tom Schulman Spike Lee Steven Soderbergh Nora Ephron
+276 3 Oliver Stone Tom Cruise Morgan Freeman Miss Daisy
+276 2 Lewis Branagh Ephron Academy Awards
+277 1 Tamara United States
+277 6 Prague U.S.
+277 4 Eastern
+277 3 Geffen
+277 5 Great
+278 1 Pizza Hut Charles Henderson Godfather Caesars Pizza David Novak Salt 
+278 2 Pizza Pizzazz Ginny Troutt Ron Ann Arbor
+278 4 Tom Jim Schwartz Caesar Women Monaghan
+278 7 Pizza Foundation Pizza Operators
+278 6 Tom Monaghan Dave Black
+279 1 California Sequoia Los Angeles Yosemite Canyon
+279 6 Summer Fresno Visalia
+279 9 Fish U.S.
+279 2 Sierra
+279 8 Kings
+280 8 Sundt Neurosurgery
+280 1 Weinberg Reagan
+280 10 Beahrs St. Paul
+280 14 Los Angeles
+280 5 California
+281 1 California Tyrone
+281 10 San Pedro Mexico
+281 2 Lamont Broadway
+281 3 West Covina
+281 5 Maria Love
+282 1 Pink Floyd Dave Gilmour Nick Mason Francois Mitterrand Pink Gilmour
+282 2 Cyndi Sinead O'Connor Joni Mitchell Berlin Wall Roger Waters James 
+282 3 Brian Howard Had Waters Chris Gilbert Waters Jon Anderson Alexis 
+282 1 Heathrow Airport
+282 4 Van Morrison
+283 1 1920s 1929 1929
+283 2 1975 1979
+283 6 1971
+283 8 1989
+283 12 1971
+284 4 1987 1984 1992 1987 1984 1991
+284 5 2000 1991 1989 1983
+284 7 1984 1973 1987
+284 1 1971 1982
+284 6 1978
+285 5 U.S. Panamanian Bush Americans Panama Smithsonian Panama City American
+285 8 American Indian New York City Title
+285 2 Indian Washington Mall Manhattan
+285 1 New York Indian Inouye New York
+285 4 Indians Agoyo New Mexico
+286 100 nil
+286 100 nil
+286 100 nil
+286 100 nil
+286 100 nil
+287 3 Mikhail S. Gorbachev Margaret Thatcher Gerasimov Gorbachev Zbigniew Brzezinski
+287 5 George Shultz Mr. Shultz Eduard Shevardnadze
+287 2 Libya Ronald Reagan Tripoli Reagan Egypt
+287 4 Alvin Guthrie Lucio Nicaragua
+287 1 Bush
+288 2 Bob De Lyser Kae Sumner Goldman
+288 1 Chris Hager Carl Bouler Ariz
+288 8 Bob Short Sizes
+288 7 Alan Schonberg
+288 3 Lin Damon
+289 1 Peruvian Lima United States
+289 4 Santa Lucia
+289 6 Santa Peru
+289 5 La Morada
+289 3 U.S.
+290 6 Latin Puerto United States Russia Calle Ocho Cuba Calle Spanish
+290 1 Jamaica Ocho Rios Negril
+290 3 Ochos Rios
+290 4 Kingston
+290 6 Little
+291 1 Gamble U.S. Patent Italian
+291 2 Cincinnati South Carolina
+291 3 Huggies Wichita
+291 6 Tognietti
+291 7 Court Pa
+292 1 Gamble U.S. Patent Italian
+292 3 Cincinnati South Carolina
+292 2 Huggies Wichita
+292 6 Tognietti
+292 9 Court Pa
+293 1 Space Station Freedom Bill Fisher Johnson Space Center Charles Price
+293 2 Astronaut William Fisher Charles R. William
+293 1 Price Fisher Richard Kohrs William Simon
+293 3 William Fisher Richard Kohrs Mr. Pike
+293 4 William Lenoir
+294 3 Cosmonauts Gennady Manakov Gennady Strekalov Anatoly Solovyov Alexander Balandin Strekalov
+294 2 Solovyev James Mir
+294 4 Anatoly Tass
+294 5 James Oberg
+294 1 Balandin
+295 26 1985 1986 1985 1986 1985
+295 1 1980 1982
+295 22 1980
+295 28 1975
+295 30 1990
+296 1 1980 1980 1982
+296 2 1980 1980 1980
+296 3 1980 1980
+296 4 1980
+296 8 1979
+297 1 William Hoeveler Terry Bienstock Steve Haworth Sanford Noriega Panamanians
+297 2 Manuel Noriega Bienstock Hoeveler Bernius Panama
+297 7 Noriega Tapes Mr. Turner Keiji Shima Ted Turner
+297 5 Sanford Bohrer Gannett Frank Rubino
+297 8 Ed Turner Turner Visnews
+298 76 Le Vine Webster Daniel Christmas
+298 100 nil
+298 100 nil
+298 100 nil
+298 100 nil
+299 3 Hartford McManus New Hampshire Massachusetts
+299 1 Boston America Small New England
+299 6 R-N.Y. Massport
+299 5 Similar
+299 2 U.S.
+300 1 1960s 1958 1989 1960s 1958 1989
+300 5 1986 1986 1956 1957 1964 1960
+300 2 1990 1956 1986
+300 4 1956 1957
+300 3 1956
+301 1 1960s 1958 1989 1960s 1958 1989
+301 5 1986 1986 1956 1957 1964 1960
+301 2 1990 1956 1986
+301 4 1956 1957
+301 3 1956
+302 5 Southern Scottish American Greek Independence Legacy
+302 1 Stallone Richmond Baltimore New York Usher
+302 6 Freudian America
+302 4 Virginia
+302 3 Boston
+303 4 Norman Leeds Nurser Rutter Oliver Twistleton-Wykeham-Fiennes Davis Latin Great Charter
+303 7 Edward Kennedy Berlin Eberhard Diepgen Kennedy
+303 2 Margaret Thatcher Magna Carta John
+303 5 Treaty Mr. Yeltsin
+303 1 Rao
+304 3 Norman Leeds Nurser Rutter Oliver Twistleton-Wykeham-Fiennes Davis Latin Great Charter
+304 6 David Richard McMillan Robert Orme Gloucestershire
+304 4 Edward Kennedy Berlin Eberhard Diepgen Kennedy
+304 2 Margaret Thatcher Magna Carta John
+304 1 Rao
+305 9 U.S. Appeal Rights
+305 10 Second Teague
+305 11 R-S.C. Habeas
+305 7 Biden Harris
+305 5 McCleskey
+306 2 Silly Putty Binney Smith Peter Hodgson Brad Drexler Mr. Hodgson
+306 4 Elliot Handler Barbie
+306 2 Mr. Drexler
+306 7 John Molski
+306 1 Malloy
+307 5 1953 1961 1961 1953 1953 1933 1788 1791 1814 1963
+307 3 1961 1961 1945 1945 1958
+307 1 1920s 1920s
+307 2 1961 1961
+307 5 1963
+308 19 Los Angeles Palmdale
+308 1 Henderson
+308 3 Las Vegas
+308 4 Phoenix
+308 15 Strip
+309 1 Miss Piggy Mickey Mouse Walt Disney World Jim Henson Fozzie 
+309 3 Miss Dumbo Katzenberg Kermit Scooter Susan Berry Berry
+309 4 Fraggle Rock Muppet Babies Mr. Katzenberg Disney
+309 5 Brian Henson Kidder Peabody Christopher P. Dixon
+309 7 Henson Associates Walt Disney
+310 1 Miss Piggy Mickey Mouse Walt Disney World Jim Henson Fozzie 
+310 4 Disney Brian Henson Kidder Peabody Christopher P. Dixon
+310 2 Miss Dumbo Katzenberg Kermit Scooter Susan Berry Berry
+310 5 Sesame Street
+310 6 Sam
+311 1 general chairman Joint Chiefs Staff Administration sources Wednesday appointment Senate
+311 1 Powell Bush adviser affairs nation officer position scope defense reorganization
+311 1 Army general chairman Joint Chiefs Staff Administration sources Wednesday move
+311 1 move U.S. forces color barriers President Bush Colin Powell
+311 1 U.S. forces color barriers President Bush Colin Powell Army
+312 1 Irish Colorado Sugar Cotton Tennessee Pasadena Nebraska Illinois Virginia New 
+312 6 Bowls Citrus Southeastern Green Oklahoma Shreveport La St. Jacksonville
+312 6 Iowa Tampa Orlando M Tempe Michigan New
+312 2 Cotton Bowl Texas Washington
+312 3 Cal Florida
+313 3 1986 1980 1980s 1800 1857 1980
+313 4 1980 1982 1980
+313 5 1982 1980
+313 1 1982
+313 2 1982
+314 5 1980 1980 1980 1980
+314 4 1980 1980 1980
+314 3 1980 1980
+314 1 1982
+314 2 1982
+315 5 1980 1982 1980
+315 3 1980 1980
+315 4 1982 1980
+315 1 1982
+315 2 1982
+316 5 Woodland Hills English
+316 1 Santa Clara San Jose
+316 3 Los Angeles July
+316 10 Slawta Design
+316 7 Leach
+317 7 Crawfordsville Massachusetts
+317 8 Los Angeles Cicero
+317 2 United States
+317 1 American
+317 6 Kennesaw
+318 4 Francois French Tagel France Maryland Fame Saratoga Springs Canadian
+318 3 Goer Creek Arkansas Horse Oklahoma Florida Jockey Campo Evans
+318 1 Unbridled New York
+318 5 Calder Keeneland
+318 2 Youth
+319 4 Francois French Tagel France Maryland Fame Saratoga Springs Canadian
+319 6 Derby New Jersey Levy Alysheba Belmont Secretariat California Prized
+319 2 Goer Creek Arkansas Oklahoma Florida Jockey Campo Evans
+319 1 Calder Keeneland Youth Horse
+319 3 Unbridled New York
+320 4 Mazda Motor Co. Honda Hiroshi Kawase
+320 1 Felix Wankel Mazda Zisch
+320 5 John Tahoe
+320 2 Burkhardt
+320 3 Ann Job
