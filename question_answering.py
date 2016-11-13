@@ -1,19 +1,17 @@
 import nltk
 from nltk.tree import Tree
-from dateutil import parser
 import re
-import baseline
 from nltk.tag.perceptron import PerceptronTagger
 from nltk.stem.lancaster import LancasterStemmer
 from queue import PriorityQueue
 
-# parts of speech that we are looking for
+# noun parts of speech that we are looking for
 valid_pos = {"NN", "NNP", "NNS"}
 # part of speech tagger that we will use
 tagger = PerceptronTagger()
-# find the verb stems
+# stemmer to find the verb stems
 st = LancasterStemmer()
-
+# map from question header to type
 question_types = {
     "Who": 1,
     "Whom": 1,
@@ -21,11 +19,11 @@ question_types = {
     "Where": 3,
     "Who is": 4
 }
-
+# set of months we will look for
 months_set = {"January", "February", "March", "April", "May", "June",
               "July", "August", "September", "October", "November", "December"}
-
-bad_verbs = {"is", "was", "did"}
+# verbs we don't want to look for
+bad_verbs = {"is", "was", "did", "may", "does"}
 
 
 def get_type_of_question(num_to_question_dict):
@@ -113,7 +111,7 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                         ner_chunks = get_continuous_chunks(ner_tagged)
                         if question_type == 1:
                             for ner_pair in ner_chunks:
-                                # Make sure that the person/organization is the same as what we searched for
+                                # Make sure that the person is the same as what we searched for
                                 if ner_pair[1] == "PERSON" and ner_pair[0] not in seen_nouns:
                                     tokens = len(nltk.word_tokenize(ner_pair[0]))
                                     if ner_pair[0].lower() in answers_set:
@@ -136,6 +134,7 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                                     num_spots_in_answer -= tokens
                                     if num_spots_in_answer == 0:
                                         break
+                    # When questions should get year/date/period of time
                     elif question_type == 2:
                         try:
                             for month in months_set:
@@ -166,7 +165,6 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                                                 if num_spots_in_answer == 0:
                                                     break
                                     # Check for dates in format January 2
-                                    # TODO: allow for letters attached to date number (e.g. January 2nd)
                                     if month_ind < len(tokens_in_sentence) - 1 and tokens_in_sentence[
                                                 month_ind + 1].isdigit():
                                         # Check for dates in format January 2 2013
@@ -209,7 +207,7 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                                         break
                     elif question_type == 4:
                         for (tok, pos) in pos_tagged_tokens_in_sentence:
-                            if pos in baseline.valid_pos:
+                            if pos in valid_pos:
                                 answer_noun = tok
                                 tokens = len(nltk.word_tokenize(answer_noun))
                                 if answer_noun.lower() in answers_set:
@@ -220,7 +218,8 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
                                 if num_spots_in_answer == 0:
                                     break
                     if curr_answer:
-                        doc_answers.put((-len(seen_nouns) * (1 + 2*num_supers) - num_verbs, " ".join(curr_answer)))
+                        doc_answers.put((-len(seen_nouns) * (1 + 3*num_supers) - 2*num_verbs, " ".join(curr_answer)))
+        # add the best answers for each doc into priority queue
         space = 10
         doc_ans = []
         prior = 0
@@ -239,6 +238,7 @@ def get_answers_with_correct_type_for_question(directory, num_to_type_dict, ques
     if answers.qsize() < 5:
         for ind in range(5 - answers.qsize()):
             answers.put((0, (100, "nil")))
+    # return the 5 answers with highest priority
     ans = [answers.get()[1] for _ in range(0, 5)]
     return ans
 
@@ -260,8 +260,6 @@ def get_answers_with_correct_type(directory, num_to_nouns, num_to_verbs, num_to_
                 ans[1] = answer_string
                 answer = tuple(ans)
             output.append(answer)
-        # output.sort(key=lambda t: len(t[1]), reverse=True)
-        print(output)
         answers[question_num] = output
     return answers
 
@@ -322,14 +320,14 @@ def output_answers(answers, answers_file):
 
 
 def main():
-    directory = "doc_dev"
+    directory = "doc_test"
     num_to_question = parse_question_file(directory)
     num_to_type_dict = get_type_of_question(num_to_question)
     num_to_nouns_dict, num_to_verbs_dict, num_to_supers_dict = get_dicts_from_questions(num_to_question)
 
     answers = get_answers_with_correct_type(directory, num_to_nouns_dict, num_to_verbs_dict,
                                             num_to_supers_dict, num_to_type_dict)
-    output_answers(answers, "answers_type.txt")
+    output_answers(answers, "answers_type_test.txt")
 
 
 if __name__ == "__main__":

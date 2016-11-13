@@ -1,6 +1,7 @@
 import os
 import re
 
+
 # get rid of the extraneous tags to get the text
 def pre(target_dir):
     for question_num in os.listdir(target_dir):
@@ -17,7 +18,6 @@ def pre(target_dir):
 
                         if len(start_text_lst) != len(end_text_lst):
                             print("NOT EQUAL")
-                            return
 
                         for i in range(len(start_text_lst)):
                             start_text = start_text_lst[i]
@@ -33,7 +33,7 @@ def pre(target_dir):
 
 
 def main():
-    pre("doc_dev")
+    pre("doc_test")
 
 if __name__ == "__main__":
     main()
